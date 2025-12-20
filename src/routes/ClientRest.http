@@ -1,0 +1,144 @@
+###POST
+POST http://localhost:3000/api/usuarios HTTP/1.1
+Content-Type: application/json
+
+{
+  "oficina": "Movilnet",
+  "correo": "luis@movilnet.com",
+  "estado": "Bloqueados",
+  "nombre": "luis",
+  "apellido": "Villamizar",
+  "cedula": "15467594",
+  "password": "contraseña123",
+  "roles": []
+}
+
+###GET
+GET http://localhost:3000/api/usuarios HTTP/1.1
+
+###PUT
+PUT http://localhost:3000/api/usuarios/693143e84a22b5c3b19b213d HTTP/1.1
+Content-Type: application/json
+
+{
+  "oficina": "Movilnet",
+  "correo": "fae@movilnet.com",
+  "estado": "Activo",
+  "nombre": "aefas",
+  "apellido": "asfea",
+  "cedula": "434352",
+  "password": "2522525",
+  "roles": ["693132e9d099dd07b59dc29f"]
+}
+
+###SHOW
+GET http://localhost:3000/api/usuarios/693143e84a22b5c3b19b213d HTTP/1.1
+
+###DELETE
+DELETE http://localhost:3000/api/usuarios/693143e84a22b5c3b19b213d HTTP/1.1
+Content-Type: application/json
+
+### Crear un nuevo rol
+POST http://localhost:3000/api/roles HTTP/1.1
+Content-Type: application/json
+
+{
+  "nombre": "Supervisor",
+  "descripcion": "Rol de supervisión con permisos intermedios",
+  "permisos": ["leer", "consultar", "asignar", "reasignar"]
+}
+
+### Obtener todos los roles
+GET http://localhost:3000/api/roles HTTP/1.1
+
+### Obtener un rol por ID (Administrador)
+GET http://localhost:3000/api/roles/6931cbef8a1692ac419dc2a9 HTTP/1.1
+
+### Actualizar un rol (Agente)
+PUT http://localhost:3000/api/roles/6931cbef8a1692ac419dc2aa HTTP/1.1
+Content-Type: application/json
+
+{
+  "nombre": "Agente",
+  "descripcion": "Agente con permisos extendidos",
+  "permisos": ["consultar", "asignar", "reasignar", "leer"]
+}
+
+### Eliminar un rol (Moderado)
+DELETE http://localhost:3000/api/roles/6931cbef8a1692ac419dc2ab HTTP/1.1
+Content-Type: application/json
+
+###POST numeros
+POST http://localhost:3000/api/numeros HTTP/1.1
+Content-Type: application/json
+
+{
+  "cedula": "V-54482125",
+  "estatus": "Disponible",
+  "numeroTelefono": "04141234567",
+  "fecha_creacion": "2025-12-04",
+  "fecha_actualizacion": "2025-12-04"
+}
+
+
+###GET numeros
+GET http://localhost:3000/api/numeros HTTP/1.1
+
+###PUT numeros
+PUT http://localhost:3000/api/numeros/6934dd3f71b2488d431cd2d9 HTTP/1.1
+Content-Type: application/json
+
+{
+  "cedula": "V-99999999",
+  "estatus": "Ocupado",
+  "numeroTelefono": "04147777777",
+  "fecha_creacion": "2025-12-06",
+  "fecha_actualizacion": "2025-12-06"
+}
+
+###SHOW numeros
+GET http://localhost:3000/api/numeros/6934dd3f71b2488d431cd2d9 HTTP/1.1
+
+
+###POST suscriptor
+POST http://localhost:3000/api/suscriptor HTTP/1.1
+Content-Type: application/json
+
+{
+  "numeroTelefono": "04265848844",
+  "estatus": "Activo",
+  "operador": "Agente222",
+  "fecha": "2025-12-04T02:56:26.000Z",
+  "whatsapp": true,
+  "telegram": false,
+  "cedula": "V-253451"
+}
+
+###GET suscriptor
+GET http://localhost:3000/api/suscriptor HTTP/1.1
+
+###PUT suscriptor
+PUT http://localhost:3000/api/suscriptor/6934dd4071b2488d431cd2db HTTP/1.1
+Content-Type: application/json
+
+{
+  "numeroTelefono": "04265848844",
+  "estatus": "Activo",
+  "operador": "Agente222",
+  "fecha": "2025-12-04T02:56:26.000Z",
+  "whatsapp": true,
+  "telegram": false,
+  "cedula": "V-253451"
+}
+
+###SHOW suscriptor
+GET http://localhost:3000/api/suscriptor/6934dd4071b2488d431cd2db HTTP/1.1
+
+### Login
+POST http://localhost:3000/api/login HTTP/1.1
+Content-Type: application/json
+
+{
+  "Usuario": "luis@movilnet.com",
+  "Password": "contraseña123"
+}

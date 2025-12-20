@@ -1,0 +1,132 @@
+/*Roles*/
+[
+  {
+    "nombre": "Administrador",
+    "descripcion": "Administrador del sistema.",
+    "permisos": [
+      "crear",
+      "leer",
+      "bloquear",
+      "actualizar",
+      "consultar"
+    ]
+  },
+  {
+    "nombre": "Agente",
+    "descripcion": "Consultar números, Asignar números y Reasignar números",
+    "permisos": [
+      "consultar",
+      "asignar",
+      "reasignar"
+    ]
+  },
+  {
+    "nombre": "Moderado",
+    "descripcion": "Elimina el Agente",
+    "permisos": [
+      "eliminar"
+    ]
+  }
+]
+/*USUARIOS*/
+[
+  {
+    "oficina": "Oficina 1",
+    "correo": "Administrador@example.com",
+    "estado": "Activo",
+    "nombre": "Administrador",
+    "apellido": "Sistema",
+    "cedula": "00000000",
+    "password": "12345678",
+    "roles_id": [
+      {
+        "$ref": "roles",
+        "$id": "6933643c4229e5fd339dc2a3"
+      }
+    ]
+  },
+  {
+    "oficina": "Oficina 1",
+    "correo": "agente@example.com",
+    "estado": "Activo",
+    "nombre": "agente",
+    "apellido": "Sistema",
+    "cedula": "00000000",
+    "password": "12345678",
+    "roles_id": [
+      {
+        "$ref": "roles",
+        "$id": "6933643c4229e5fd339dc2a4"
+      }
+    ]
+  },
+  {
+    "oficina": "Oficina 1",
+    "correo": "agenteModerador@example.com",
+    "estado": "Activo",
+    "nombre": "agenteModerador",
+    "apellido": "Sistema",
+    "cedula": "00000000",
+    "password": "12345678",
+    "roles_id": [
+      {
+        "$ref": "roles",
+        "$id": "6933643c4229e5fd339dc2a5"
+      }
+    ]
+  },
+]
+/*Números*/
+[
+  {
+    "cedula": "V-251351",
+    "estatus": "Disponible",
+    "numeroTelefono": "04141234567",
+    "fecha_creacion": "2025-12-04T02:56:26.000Z",
+    "fecha_actualizacion": "2025-12-04T02:56:26.000Z"
+  },
+  {
+    "cedula": "V-251352",
+    "estatus": "Disponible",
+    "numeroTelefono": "04141234568",
+    "fecha_creacion": "2025-12-04T02:56:26.000Z",
+    "fecha_actualizacion": "2025-12-04T02:56:26.000Z"
+  },
+  {
+    "cedula": "V-251353",
+    "estatus": "Disponible",
+    "numeroTelefono": "04141234569",
+    "fecha_creacion": "2025-12-04T02:56:26.000Z",
+    "fecha_actualizacion": "2025-12-04T02:56:26.000Z"
+  }
+]
+/*Suscriptor*/
+[
+  {
+    "numeroTelefono": "04265848844",
+    "estatus": "Activo",
+    "operador": "Agente222",
+    "fecha": "2025-12-04T02:56:26.000Z",
+    "whatsapp": true,
+    "telegram": false,
+    "cedula": "V-251351"
+  },
+  {
+    "numeroTelefono": "04265848844",
+    "estatus": "Activo",
+    "operador": "Agente222",
+    "fecha": "2025-12-04T02:56:26.000Z",
+    "whatsapp": false,
+    "telegram": false,
+    "cedula": "V-251352"
+  },
+  {
+    "numeroTelefono": "04265848844",
+    "estatus": "Activo",
+    "operador": "Agente222",
+    "fecha": "2025-12-04T02:56:26.000Z",
+    "whatsapp": true,
+    "telegram": true,
+    "cedula": "V-251353"
+  }
+]
