@@ -65,3 +65,9 @@
 [2025-12-22T20:35:08.172Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
 [2025-12-22T20:36:13.834Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
 [2025-12-22T20:56:59.164Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T21:05:57.963Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T21:09:19.596Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T21:17:36.451Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T21:26:51.090Z] [USUARIO] Usuario creado exitosamente - ID: 6949b79b7a03ed84bbdce06b - Data: {"roles":"6949b74d15750b560f9dc29d","correo":"admin@movilnet.com.ve"}
+[2025-12-22T21:27:52.621Z] [USUARIO] Usuario creado exitosamente - ID: 6949b7d87a03ed84bbdce06f - Data: {"roles":"6949b74d15750b560f9dc29e","correo":"agente@movilnet.com.ve"}
+[2025-12-22T21:28:38.451Z] [USUARIO] Usuario creado exitosamente - ID: 6949b8067a03ed84bbdce073 - Data: {"roles":"6949b74d15750b560f9dc29f","correo":"moderador@movilnet.com.ve"}

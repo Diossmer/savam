@@ -21,7 +21,7 @@
     ]
   },
   {
-    "nombre": "Moderado",
+    "nombre": "Moderador",
     "descripcion": "Elimina el Agente",
     "permisos": [
       "eliminar"
@@ -31,50 +31,44 @@
 /*USUARIOS*/
 [
   {
-    "oficina": "Oficina 1",
-    "correo": "Administrador@example.com",
-    "estado": "Activo",
-    "nombre": "Administrador",
-    "apellido": "Sistema",
+    "oficina": "Movilnet",
+    "correo": "admin@movilnet.com.ve",
+    "estado": "activo",
+    "nombre": "Admin",
+    "apellido": "System",
     "cedula": "00000000",
-    "password": "12345678",
-    "roles_id": [
-      {
-        "$ref": "roles",
-        "$id": "6933643c4229e5fd339dc2a3"
-      }
-    ]
+    "password": "$2b$10$saEGi/EnOPvuePFtyvCFbOPG513HzqgbUyBaFSdRWsIKmw8dCstd2", //12345678
+    "roles_id": {
+      "$ref": "roles",
+      "$id": "6949b74d15750b560f9dc29d"
+    }
   },
   {
-    "oficina": "Oficina 1",
-    "correo": "agente@example.com",
-    "estado": "Activo",
-    "nombre": "agente",
-    "apellido": "Sistema",
+    "oficina": "Movilnet",
+    "correo": "agente@movilnet.com.ve",
+    "estado": "activo",
+    "nombre": "Agent",
+    "apellido": "System",
     "cedula": "00000000",
-    "password": "12345678",
-    "roles_id": [
-      {
-        "$ref": "roles",
-        "$id": "6933643c4229e5fd339dc2a4"
-      }
-    ]
+    "password": "$2b$10$ik3LrWqUnh0l7oC6B0bii.uWvJyveJ8LB6fuDZK7AQZHh9h7gfEk2",
+    "roles_id": {
+      "$ref": "roles",
+      "$id": "6949b74d15750b560f9dc29e"
+    }
   },
   {
-    "oficina": "Oficina 1",
-    "correo": "agenteModerador@example.com",
-    "estado": "Activo",
-    "nombre": "agenteModerador",
-    "apellido": "Sistema",
+    "oficina": "Movilnet",
+    "correo": "moderador@movilnet.com.ve",
+    "estado": "Bloqueado",
+    "nombre": "Moderador",
+    "apellido": "System",
     "cedula": "00000000",
-    "password": "12345678",
-    "roles_id": [
-      {
-        "$ref": "roles",
-        "$id": "6933643c4229e5fd339dc2a5"
-      }
-    ]
-  },
+    "password": "$2b$10$D0CT8GA7wUhXp3cLF/aoUOeBIPpe.ltXYsmerTrBF6.Wm0PYtH5nO",
+    "roles_id": {
+      "$ref": "roles",
+      "$id": "6949b74d15750b560f9dc29f"
+    }
+  }
 ]
 /*Números*/
 [

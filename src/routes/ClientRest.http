@@ -4,13 +4,13 @@ Content-Type: application/json
 
 {
   "oficina": "Movilnet",
-  "correo": "diossmer@gmail.com",
-  "estado": "Bloqueados",
-  "nombre": "Diossmer",
-  "apellido": "Villamizar",
-  "cedula": "21310567",
+  "correo": "admin@movilnet.com.ve",
+  "estado": "activo",
+  "nombre": "Admin",
+  "apellido": "System",
+  "cedula": "00000000",
   "password": "12345678",
-  "roles": ["6934dc2871b2488d431cd2d3"]
+  "roles": ["6949b74d15750b560f9dc29d"]
 }
 
 ###GET
