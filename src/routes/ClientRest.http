@@ -4,13 +4,13 @@ Content-Type: application/json
 
 {
   "oficina": "Movilnet",
-  "correo": "admin@movilnet.com.ve",
-  "estado": "activo",
-  "nombre": "Admin",
+  "correo": "moderador@movilnet.com.ve",
+  "estado": "Bloqueado",
+  "nombre": "Moderador",
   "apellido": "System",
   "cedula": "00000000",
   "password": "12345678",
-  "roles": ["6949b74d15750b560f9dc29d"]
+  "roles": ["6949b74d15750b560f9dc29f"]
 }
 
 ###GET
@@ -139,7 +139,7 @@ POST http://localhost:3000/api/login HTTP/1.1
 Content-Type: application/json
 
 {
-  "Usuario": "movilnet@movilnet.com",
+  "Usuario": "admin@movilnet.com.ve",
   "Password": "12345678"
 }
 ### Logout
@@ -159,4 +159,4 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzRlODRlY
 ### Profile (Requires Auth Token)
 GET http://localhost:3000/api/profile HTTP/1.1
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NDdlYzZhNTA3ZjI5ZjNmM2Q0ZDFhNiIsImNvcnJlbyI6Im1vdmlsbmV0QG1vdmlsbmV0LmNvbSIsInJvbGVzIjpbIjY5MzNiMDEyNjFjNDFjN2Q1NjlkYzI5ZCJdLCJpYXQiOjE3NjY0MTg5NzAsImV4cCI6MTc2NjQyMjU3MH0.qDLtN1kYXBkbnoKKnIyqU0B9dhckx5Twr16Q319RsC8
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NDliNzliN2EwM2VkODRiYmRjZTA2YiIsImNvcnJlbyI6ImFkbWluQG1vdmlsbmV0LmNvbS52ZSIsInJvbGVzIjpbeyJfaWQiOiI2OTQ5Yjc0ZDE1NzUwYjU2MGY5ZGMyOWQiLCJub21icmUiOiJBZG1pbmlzdHJhZG9yIiwiZGVzY3JpcGNpb24iOiJBZG1pbmlzdHJhZG9yIGRlbCBzaXN0ZW1hLiIsInBlcm1pc29zIjpbImNyZWFyIiwibGVlciIsImJsb3F1ZWFyIiwiYWN0dWFsaXphciIsImNvbnN1bHRhciJdfV0sImlhdCI6MTc2NjQ0MDA3NywiZXhwIjoxNzY2NDQzNjc3fQ.BoArZpV7h2XuPKCQp_-de4LQ58B6Ss1Rx7pL5ckSluc

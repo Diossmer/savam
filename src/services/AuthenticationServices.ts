@@ -39,7 +39,7 @@ export class AuthenticationServices implements IAuthenticationService {
         nombre: usuario.nombre,
         apellido: usuario.apellido,
         correo: usuario.correo,
-        roles: usuario.roles.length > 0 ? (usuario.roles[0] as any).nombre || usuario.roles[0].toString() : null
+        roles: usuario.roles.length > 0 ? usuario.roles[0] : null
       }
     };
   }

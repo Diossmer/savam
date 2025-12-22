@@ -176,3 +176,22 @@
 [2025-12-22T21:29:06.257Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario no encontrado ID: 6947ec6a507f29f3f3d4d1a6
 [2025-12-22T21:29:10.873Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
 [2025-12-22T21:29:10.881Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2025-12-22T21:32:56.246Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T21:32:56.279Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2025-12-22T21:33:11.858Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T21:33:11.865Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: movilnet@movilnet.com
+[2025-12-22T21:33:30.766Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com.ve
+[2025-12-22T21:33:30.771Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: movilnet@movilnet.com.ve
+[2025-12-22T21:33:33.719Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com.ve
+[2025-12-22T21:33:33.725Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: movilnet@movilnet.com.ve
+[2025-12-22T21:33:41.014Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T21:33:41.026Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2025-12-22T21:34:03.492Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:46:32.811Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:47:57.591Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:48:14.977Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6949b79b7a03ed84bbdce06b
+[2025-12-22T21:48:31.015Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:49:58.994Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:52:53.241Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:54:06.125Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2025-12-22T21:54:26.850Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
