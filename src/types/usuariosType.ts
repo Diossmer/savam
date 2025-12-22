@@ -9,7 +9,7 @@ export interface Usuarios {
   apellido: string;
   cedula: string;
   password: string;
-  roles: string[];
+  roles: any;
 }
 
 //buscar la data de la base de datos Usuarios en el repositorio

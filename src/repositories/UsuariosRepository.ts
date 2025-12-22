@@ -3,8 +3,8 @@ import UsuarioModel from "@/models/Usuarios";
 import bcrypt from "bcryptjs";
 // Repositorio (Interaction con la base de datos)
 export class UsuariosRepository implements IUsuarioRepository {
-  // Helper para convertir roles (DBRef o ObjectId) a string[]
-  private rolesAString(roles: any): string[] {
+  // Helper para convertir roles (DBRef o ObjectId o Objeto Poblado) a (string | any)[]
+  private rolesAData(roles: any): (string | any)[] {
     // Verificar si roles existe y es un array
     if (!roles) return [];
     if (!Array.isArray(roles)) return [];
@@ -13,6 +13,16 @@ export class UsuariosRepository implements IUsuarioRepository {
     return roles.map(rol => {
       // Si es null o undefined, retornar vacío
       if (!rol) return '';
+
+      // Si es un objeto que ya tiene nombre (poblado), devolverlo completo
+      if (typeof rol === 'object' && rol.nombre) {
+        return {
+          id: rol._id ? rol._id.toString() : (rol.id || ''),
+          nombre: rol.nombre,
+          descripcion: rol.descripcion,
+          permisos: rol.permisos
+        };
+      }
 
       // Si es un DBRef, extraer el oid
       if (typeof rol === 'object' && rol.oid) {
@@ -27,7 +37,7 @@ export class UsuariosRepository implements IUsuarioRepository {
         return rol.toString();
       }
       return '';
-    }).filter(id => id !== '');
+    }).filter(data => data !== '');
   }
 
   // private usuario:[] = [] //guardar en memoria
@@ -47,6 +57,7 @@ export class UsuariosRepository implements IUsuarioRepository {
     const usuarioGuardado = await nuevoUsuario.save();
 
     // Mapear de vuelta a la interfaz de la API
+    const rolesData = this.rolesAData(usuarioGuardado.roles);
     return {
       id: usuarioGuardado._id.toString(),
       oficina: usuarioGuardado.oficina,
@@ -56,33 +67,37 @@ export class UsuariosRepository implements IUsuarioRepository {
       apellido: usuarioGuardado.apellido,
       cedula: usuarioGuardado.cedula,
       password: usuarioGuardado.password,
-      roles: this.rolesAString(usuarioGuardado.roles),
+      roles: rolesData.length > 0 ? rolesData[0] : null,
     };
   }
 
   async find(): Promise<Usuarios[]> {
-    const usuarios = await UsuarioModel.find().lean();
+    const usuarios = await UsuarioModel.find().populate('roles').lean();
 
     // Mapear de MongoDB a la interfaz de la API
-    return usuarios.map((usuario: any) => ({
-      id: usuario._id.toString(),
-      oficina: usuario.oficina,
-      correo: usuario.correo,
-      estado: usuario.estado,
-      nombre: usuario.nombre,
-      apellido: usuario.apellido,
-      cedula: usuario.cedula,
-      password: usuario.password,
-      roles: this.rolesAString(usuario.roles),
-    }));
+    return usuarios.map((usuario: any) => {
+      const rolesData = this.rolesAData(usuario.roles);
+      return {
+        id: usuario._id.toString(),
+        oficina: usuario.oficina,
+        correo: usuario.correo,
+        estado: usuario.estado,
+        nombre: usuario.nombre,
+        apellido: usuario.apellido,
+        cedula: usuario.cedula,
+        password: usuario.password,
+        roles: rolesData.length > 0 ? rolesData[0] : null,
+      };
+    });
   }
 
   async findById(id: string): Promise<Usuarios | null> {
-    const usuario = await UsuarioModel.findById(id).lean();
+    const usuario = await UsuarioModel.findById(id).populate('roles').lean();
     if (!usuario) {
       return null;
     }
     // Mapear de MongoDB a la interfaz de la API
+    const rolesData = this.rolesAData((usuario as any).roles);
     return {
       id: (usuario as any)._id.toString(),
       oficina: (usuario as any).oficina,
@@ -92,7 +107,7 @@ export class UsuariosRepository implements IUsuarioRepository {
       apellido: (usuario as any).apellido,
       cedula: (usuario as any).cedula,
       password: (usuario as any).password,
-      roles: this.rolesAString((usuario as any).roles),
+      roles: rolesData.length > 0 ? rolesData[0] : null,
     };
   }
 
@@ -112,8 +127,9 @@ export class UsuariosRepository implements IUsuarioRepository {
     if (data.roles) {
       usuario.roles = data.roles as any;
     }
-    const usuarioGuardado = await usuario.save();
+    const usuarioGuardado = await (await usuario.save()).populate('roles');
     // Mapear de vuelta a la interfaz de la API
+    const rolesData = this.rolesAData(usuarioGuardado.roles);
     return {
       id: usuarioGuardado._id.toString(),
       oficina: usuarioGuardado.oficina,
@@ -123,16 +139,17 @@ export class UsuariosRepository implements IUsuarioRepository {
       apellido: usuarioGuardado.apellido,
       cedula: usuarioGuardado.cedula,
       password: usuarioGuardado.password,
-      roles: this.rolesAString(usuarioGuardado.roles),
+      roles: rolesData.length > 0 ? rolesData[0] : null,
     };
   }
 
   async delete(id: string): Promise<Usuarios | null> {
-    const usuario = await UsuarioModel.findByIdAndDelete(id);
+    const usuario = await UsuarioModel.findByIdAndDelete(id).populate('roles');
     if (!usuario) {
       return null;
     }
     // Mapear de MongoDB a la interfaz de la API
+    const rolesData = this.rolesAData(usuario.roles);
     return {
       id: usuario._id.toString(),
       oficina: usuario.oficina,
@@ -142,7 +159,7 @@ export class UsuariosRepository implements IUsuarioRepository {
       apellido: usuario.apellido,
       cedula: usuario.cedula,
       password: usuario.password,
-      roles: this.rolesAString(usuario.roles),
+      roles: rolesData.length > 0 ? rolesData[0] : null,
     };
   }
 }

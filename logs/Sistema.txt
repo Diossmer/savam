@@ -57,3 +57,35 @@
 [2025-12-22T15:55:49.912Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6934e84eb530b0f8ba73ef98
 [2025-12-22T15:56:10.791Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
 [2025-12-22T15:56:21.672Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:01:48.327Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:01:53.272Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:03:47.169Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:03:56.688Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:04:10.822Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:04:22.830Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2025-12-22T16:04:27.483Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:04:27.516Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:04:48.789Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:05:55.174Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:05:55.183Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Diossmer Villamizar
+[2025-12-22T16:08:55.613Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:08:55.645Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Diossmer Villamizar
+[2025-12-22T16:09:07.096Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:09:07.106Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:10:47.740Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:10:47.751Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:10:49.113Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:10:49.119Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:10:51.535Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:10:51.546Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:11:01.442Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:11:01.473Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:11:21.147Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:11:21.178Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Diossmer Villamizar
+[2025-12-22T16:11:28.006Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:11:35.142Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T16:11:35.153Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T16:11:46.213Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:11:46.221Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Diossmer Villamizar
+[2025-12-22T16:12:02.104Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:12:55.308Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6

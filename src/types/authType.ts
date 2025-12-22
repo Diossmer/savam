@@ -13,7 +13,7 @@ export interface AuthResponse {
     nombre: string;
     apellido: string;
     correo: string;
-    roles: string[];
+    roles: any;
   }
 }
 

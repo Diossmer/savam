@@ -39,7 +39,7 @@ export class AuthenticationServices implements IAuthenticationService {
         nombre: usuario.nombre,
         apellido: usuario.apellido,
         correo: usuario.correo,
-        roles: usuario.roles.map(role => role.toString())
+        roles: usuario.roles.length > 0 ? (usuario.roles[0] as any).nombre || usuario.roles[0].toString() : null
       }
     };
   }
@@ -72,10 +72,10 @@ export class AuthenticationServices implements IAuthenticationService {
         { expiresIn: "1h" }
       );
 
-      return { 
-        success: true, 
+      return {
+        success: true,
         message: "Contraseña actualizada exitosamente",
-        token: token 
+        token: token
       };
     } catch (error: any) {
       return { success: false, message: `Error al actualizar: ${error.message}` };
@@ -89,6 +89,18 @@ export class AuthenticationServices implements IAuthenticationService {
       return null;
     }
 
+    const rolesMapped = usuario.roles.map((role: any) => {
+      if (typeof role === 'object' && role.nombre) {
+        return {
+          id: role._id ? role._id.toString() : (role.id || ''),
+          nombre: role.nombre,
+          descripcion: role.descripcion,
+          permisos: role.permisos
+        };
+      }
+      return role.toString();
+    });
+
     return {
       id: usuario._id.toString(),
       oficina: usuario.oficina,
@@ -97,7 +109,7 @@ export class AuthenticationServices implements IAuthenticationService {
       nombre: usuario.nombre,
       apellido: usuario.apellido,
       cedula: usuario.cedula,
-      roles: usuario.roles.map(role => role.toString())
+      roles: rolesMapped.length > 0 ? rolesMapped[0] : null
     };
   }
 }
