@@ -1,4 +1,4 @@
-import { Authentication, IAuthenticationRepository, IAuthenticationService, AuthResponse } from "@/types/authType";
+import { Authentication, IAuthenticationRepository, IAuthenticationService, AuthResponse, UpdatePasswordData, UpdatePasswordResponse } from "@/types/authType";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 
@@ -41,6 +41,63 @@ export class AuthenticationServices implements IAuthenticationService {
         correo: usuario.correo,
         roles: usuario.roles.map(role => role.toString())
       }
+    };
+  }
+
+  async logout(): Promise<void> {
+    return;
+  }
+
+  async updatePassword(data: UpdatePasswordData): Promise<UpdatePasswordResponse> {
+    const usuario = await this.authenticationRepository.findByCorreo(data.correo);
+
+    if (!usuario) {
+      return { success: false, message: "Usuario no encontrado" };
+    }
+
+    const passwordValido = bcrypt.compareSync(data.currentPassword, usuario.password);
+
+    if (!passwordValido) {
+      return { success: false, message: "Contraseña actual incorrecta" };
+    }
+
+    try {
+      usuario.password = bcrypt.hashSync(data.newPassword, 10);
+      await usuario.save();
+
+      // Generar nuevo token para el "refresh"
+      const token = jwt.sign(
+        { id: usuario._id, correo: usuario.correo, roles: usuario.roles },
+        process.env.JWT_SECRET || "secreto",
+        { expiresIn: "1h" }
+      );
+
+      return { 
+        success: true, 
+        message: "Contraseña actualizada exitosamente",
+        token: token 
+      };
+    } catch (error: any) {
+      return { success: false, message: `Error al actualizar: ${error.message}` };
+    }
+  }
+
+  async getProfile(id: string): Promise<any | null> {
+    const usuario = await this.authenticationRepository.findById(id);
+
+    if (!usuario) {
+      return null;
+    }
+
+    return {
+      id: usuario._id.toString(),
+      oficina: usuario.oficina,
+      correo: usuario.correo,
+      estado: usuario.estado,
+      nombre: usuario.nombre,
+      apellido: usuario.apellido,
+      cedula: usuario.cedula,
+      roles: usuario.roles.map(role => role.toString())
     };
   }
 }

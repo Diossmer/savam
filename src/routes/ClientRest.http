@@ -4,13 +4,13 @@ Content-Type: application/json
 
 {
   "oficina": "Movilnet",
-  "correo": "luis@movilnet.com",
+  "correo": "movilnet@movilnet.com",
   "estado": "Bloqueados",
-  "nombre": "luis",
+  "nombre": "Diossmer",
   "apellido": "Villamizar",
   "cedula": "15467594",
-  "password": "contraseña123",
-  "roles": []
+  "password": "12345678",
+  "roles": ["6933b01261c41c7d569dc29d"]
 }
 
 ###GET
@@ -142,3 +142,20 @@ Content-Type: application/json
   "Usuario": "luis@movilnet.com",
   "Password": "contraseña123"
 }
+### Logout
+POST http://localhost:3000/api/logout HTTP/1.1
+Content-Type: application/json
+
+### Update Password (Requires Auth Token)
+POST http://localhost:3000/api/update-password HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer YOUR_TOKEN_HERE
+
+{
+  "currentPassword": "contraseña123",
+  "newPassword": "nuevaContraseña123"
+}
+
+### Get Profile (Requires Auth Token)
+GET http://localhost:3000/api/profile HTTP/1.1
+Authorization: Bearer YOUR_TOKEN_HERE

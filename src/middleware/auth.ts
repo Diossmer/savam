@@ -7,7 +7,7 @@ import { config } from '@/config/env';
  */
 export interface JwtPayload {
   id: string;
-  email?: string;
+  correo?: string;
   roles?: string[];
 }
 

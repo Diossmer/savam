@@ -6,4 +6,9 @@ export class AuthenticationRepository implements IAuthenticationRepository {
     const usuario = await UsuarioModel.findOne({ correo: correo });
     return usuario;
   }
+
+  async findById(id: string): Promise<IUsuario | null> {
+    const usuario = await UsuarioModel.findById(id);
+    return usuario;
+  }
 }

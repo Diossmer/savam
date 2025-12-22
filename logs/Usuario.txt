@@ -1,0 +1,18 @@
+[2025-12-21T12:27:05.706Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-21T12:47:38.876Z] [USUARIO] Usuario creado exitosamente - ID: 6947ec6a507f29f3f3d4d1a6 - Data: {"roles":["6933b01261c41c7d569dc29d"],"correo":"movilnet@movilnet.com"}
+[2025-12-22T05:45:00.630Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T05:45:48.413Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T05:45:53.205Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T06:10:38.220Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T06:19:51.745Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T06:20:13.759Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T06:22:10.867Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T06:22:31.729Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T06:37:36.691Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
+[2025-12-22T14:36:20.757Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T14:36:35.495Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T14:40:08.596Z] [USUARIO] Contraseña actualizada para usuario: luis@movilnet.com
+[2025-12-22T15:43:44.741Z] [USUARIO] Usuario creado exitosamente - ID: 694967301ba998c00ad84494 - Data: {"roles":["6934dc2871b2488d431cd2d3"],"correo":"diossmer@gmail.com"}
+[2025-12-22T15:54:13.050Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T15:55:33.656Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis@movilnet.com
+[2025-12-22T15:56:10.865Z] [USUARIO] Inicio de sesión exitoso - Usuario: movilnet@movilnet.com
