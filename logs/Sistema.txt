@@ -89,3 +89,76 @@
 [2025-12-22T16:11:46.221Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Diossmer Villamizar
 [2025-12-22T16:12:02.104Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
 [2025-12-22T16:12:55.308Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6947ec6a507f29f3f3d4d1a6
+[2025-12-22T16:45:30.613Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com.ve
+[2025-12-22T16:45:30.645Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: movilnet@movilnet.com.ve
+[2025-12-22T16:46:31.275Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T16:46:39.291Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:02:48.537Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:03:15.830Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:05:02.229Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:05:12.704Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:08:29.921Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:10:08.270Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:18:32.144Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:18:42.807Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:18:47.413Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:18:47.709Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:22:23.268Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:28:21.475Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:35:19.542Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T17:39:18.948Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:43:42.466Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:55:09.754Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:55:24.036Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:55:33.475Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:55:34.139Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T18:55:50.368Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:04:36.032Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:05:08.240Z] [SISTEMA] [SuscriptorController] [indexListSuscriptorById] - Buscando suscriptor ID: 6934dd4071b2488d431cd2db
+[2025-12-22T19:05:08.260Z] [SISTEMA] [SuscriptorController] [indexListSuscriptorById] - Suscriptor encontrado: V-999999
+[2025-12-22T19:05:18.994Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:05:40.742Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:05:44.641Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:46.498Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:46.692Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:46.850Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.036Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.202Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.371Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.552Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.724Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:47.873Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:48.020Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:48.198Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2025-12-22T19:05:49.865Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:23:43.831Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:24:02.316Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:24:10.490Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:25:12.382Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:30:45.350Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:31:02.155Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:32:35.072Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:32:42.389Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:35:56.963Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:19.187Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:20.901Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:21.054Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:21.303Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:29.175Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:40:29.383Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T19:49:45.210Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T19:49:45.246Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2025-12-22T20:19:34.666Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:19:41.134Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:20:19.341Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:25:02.481Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:34:04.760Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: Movilnet@movilnet.com
+[2025-12-22T20:34:04.763Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: Movilnet@movilnet.com
+[2025-12-22T20:34:19.685Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:35:08.009Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:36:13.683Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: luis@movilnet.com
+[2025-12-22T20:36:24.912Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: luis@movilnet.com
+[2025-12-22T20:36:25.060Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: luis@movilnet.com
+[2025-12-22T20:56:58.985Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: movilnet@movilnet.com
+[2025-12-22T20:57:35.586Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2025-12-22T20:57:35.610Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4

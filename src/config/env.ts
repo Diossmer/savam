@@ -8,6 +8,7 @@ process.loadEnvFile();
 export const config = {
   // Configuración del servidor
   server: {
+    host: process.env.HOST || '0.0.0.0',
     port: parseInt(process.env.PORT || '3000', 10),
     nodeEnv: process.env.NODE_ENV || 'development',
     isDevelopment: process.env.NODE_ENV === 'development',
