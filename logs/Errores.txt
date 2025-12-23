@@ -28,3 +28,37 @@
     at async model.save (/var/www/html/savam/node_modules/mongoose/lib/model.js:609:5)
     at async UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:57:29)
     at async storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:29)
+[2025-12-23T14:57:12.203Z] [ERROR] Error al crear usuario - Detalle: ValidationError: usuarios validation failed: roles.0: Cast to [ObjectId] failed for value "[\n' +
+  '  {\n' +
+  "    descripcion: 'Administrador del sistema.',\n" +
+  "    nombre: 'Administrador',\n" +
+  "    permisos: [ 'crear', 'leer', 'bloquear', 'actualizar', 'consultar' ]\n" +
+  '  }\n' +
+  ']" (type string) at path "roles.0" because of "CastError"
+    at Document.invalidate (/var/www/html/savam/node_modules/mongoose/lib/document.js:3377:32)
+    at model.$set (/var/www/html/savam/node_modules/mongoose/lib/document.js:1502:12)
+    at model.$set (/var/www/html/savam/node_modules/mongoose/lib/document.js:1154:16)
+    at model.Document (/var/www/html/savam/node_modules/mongoose/lib/document.js:178:12)
+    at model.Model (/var/www/html/savam/node_modules/mongoose/lib/model.js:129:12)
+    at new model (/var/www/html/savam/node_modules/mongoose/lib/model.js:4679:15)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:46:26)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+[2025-12-23T14:57:18.215Z] [ERROR] Error al crear usuario - Detalle: ValidationError: usuarios validation failed: roles.0: Cast to [ObjectId] failed for value "[\n' +
+  '  {\n' +
+  "    descripcion: 'Consultar números, Asignar números y Reasignar números',\n" +
+  "    nombre: 'Agente',\n" +
+  "    permisos: [ 'consultar', 'asignar', 'reasignar' ]\n" +
+  '  }\n' +
+  ']" (type string) at path "roles.0" because of "CastError"
+    at Document.invalidate (/var/www/html/savam/node_modules/mongoose/lib/document.js:3377:32)
+    at model.$set (/var/www/html/savam/node_modules/mongoose/lib/document.js:1502:12)
+    at model.$set (/var/www/html/savam/node_modules/mongoose/lib/document.js:1154:16)
+    at model.Document (/var/www/html/savam/node_modules/mongoose/lib/document.js:178:12)
+    at model.Model (/var/www/html/savam/node_modules/mongoose/lib/model.js:129:12)
+    at new model (/var/www/html/savam/node_modules/mongoose/lib/model.js:4679:15)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:46:26)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
