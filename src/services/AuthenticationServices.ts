@@ -36,10 +36,8 @@ export class AuthenticationServices implements IAuthenticationService {
       token,
       usuario: {
         id: usuario._id.toString(),
-        nombre: usuario.nombre,
-        apellido: usuario.apellido,
         correo: usuario.correo,
-        roles: usuario.roles.length > 0 ? usuario.roles[0] : null
+        roles: usuario.roles.length > 0 ? (usuario.roles[0] as any).nombre : null
       }
     };
   }

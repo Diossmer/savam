@@ -6,14 +6,16 @@ export interface Authentication {
   Password: string
 }
 
+export interface IRol {
+  id?: string,
+  nombre: string
+}
 export interface AuthResponse {
   token: string;
   usuario: {
     id: string;
-    nombre: string;
-    apellido: string;
     correo: string;
-    roles: any;
+    roles: IRol[];
   }
 }
 
