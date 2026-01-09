@@ -50,7 +50,7 @@ export class UsuariosRepository implements IUsuarioRepository {
       nombre: data.nombre,
       apellido: data.apellido,
       cedula: data.cedula,
-      password: bcrypt.hashSync(data.password, 10),
+      password: data.password ? bcrypt.hashSync(data.password, 10) : '',
       roles: data.roles || [],
     });
 
@@ -123,7 +123,11 @@ export class UsuariosRepository implements IUsuarioRepository {
     usuario.nombre = data.nombre;
     usuario.apellido = data.apellido;
     usuario.cedula = data.cedula;
-    usuario.password = bcrypt.hashSync(data.password, 10)
+
+    if (data.password) {
+      usuario.password = bcrypt.hashSync(data.password, 10);
+    }
+
     if (data.roles) {
       usuario.roles = data.roles as any;
     }

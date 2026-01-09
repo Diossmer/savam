@@ -1,4 +1,5 @@
 import { Repository } from "./repositoriesType";
+import { Roles } from "./rolesType";
 //esquema de la base de datos Usuarios 
 export interface Usuarios {
   id: string;
@@ -9,7 +10,7 @@ export interface Usuarios {
   apellido: string;
   cedula: string;
   password: string;
-  roles: any;
+  roles: Array<Roles>;
 }
 
 //buscar la data de la base de datos Usuarios en el repositorio

@@ -12,7 +12,16 @@ export class UsuarioController {
     storeUsuario = async (req: Request, res: Response): Promise<void> => {
         logger.sistema("[UsuarioController] [storeUsuario] - Iniciando creación de usuario");
         try {
+            const { password, correo, nombre } = req.body;
+
+            if (!password) {
+                logger.error("Error al crear usuario - Contraseña no proporcionada");
+                res.status(400).json({ message: "La contraseña es obligatoria para crear un usuario" });
+                return;
+            }
+
             const usuario = await this.usuarioService.createUsuario(req.body);
+            console.log(usuario);
             logger.usuario(`Usuario creado exitosamente - ID: ${usuario.id}`, { roles: usuario.roles, correo: usuario.correo });
             res.status(201).json(usuario);
         } catch (error) {

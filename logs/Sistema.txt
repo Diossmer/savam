@@ -325,3 +325,223 @@
 [2026-01-06T23:59:43.883Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
 [2026-01-07T00:01:53.463Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
 [2026-01-07T00:19:47.784Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T00:36:01.097Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:03:30.412Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:03:35.813Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:04:00.816Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:04:01.980Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:04:19.417Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:04:56.215Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:05:29.889Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:05:58.714Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:09:51.233Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:12:39.128Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:16:41.923Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:19:48.910Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:19:53.316Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:19:54.522Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:19:55.539Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:19:56.458Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:22:09.084Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T01:25:25.632Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@gmail.com.ve
+[2026-01-07T01:25:25.707Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@gmail.com.ve
+[2026-01-07T01:48:01.652Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T02:02:34.955Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T02:08:34.623Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T02:17:02.322Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T02:30:55.666Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6949b79b7a03ed84bbdce06b
+[2026-01-07T02:37:44.130Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:01:55.644Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:06:33.387Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:09:36.339Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:26:46.095Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:08.457Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:45.279Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:45.351Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:50.742Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:50.840Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:51.441Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T03:27:51.547Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movilnet.com.ve
+[2026-01-07T03:29:02.948Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:02.951Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:06.156Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:06.158Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:10.934Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:10.935Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:11.059Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:11.061Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:18.875Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:18.878Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:22.449Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T03:29:22.451Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movdmxkdksfkydj✈️zndnsmfjdjdhfhilnet.com.ve✈️✈️🛍️😴🛍️🎊🎊😔😂🎄🫂😂❤️❤️💗✈️😃🤨🥱🙆💆🙅💁🙆🙅🙅💆🛀💁🙅💁💇
+[2026-01-07T04:16:50.515Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T04:42:03.230Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T04:42:23.739Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T05:11:10.025Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T05:13:26.237Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T05:15:06.731Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T06:24:38.870Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T06:28:29.057Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-07T06:43:31.228Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T06:51:48.003Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T06:51:48.804Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T06:57:30.915Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-07T06:57:56.124Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-07T06:58:40.987Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T07:06:34.420Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-07T07:06:51.649Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T07:07:17.959Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T15:18:58.199Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-07T16:51:16.834Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-07T17:12:09.893Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-07T17:13:23.395Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T00:34:02.165Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T00:37:38.655Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T14:49:41.233Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T14:51:18.069Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T14:51:54.842Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-08T15:24:28.140Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T15:25:13.263Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T15:36:41.082Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T16:16:11.402Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T16:16:38.308Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T16:17:22.493Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:00:55.259Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:05:09.856Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:10:29.926Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:30:20.590Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:32:42.781Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:34:29.256Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:34:29.963Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T17:34:29.976Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T17:36:02.393Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:36:02.853Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T17:36:02.858Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T17:51:08.576Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-08T17:51:52.978Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T17:57:39.898Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:00:31.006Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:00:31.021Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:02:31.987Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:02:32.897Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:02:32.905Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:03:56.381Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:03:57.488Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:03:57.496Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:04:41.158Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:04:42.099Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:04:42.105Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:06:27.888Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:06:29.235Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:06:29.241Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:07:18.718Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:07:20.576Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:07:20.583Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:43:52.169Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:43:53.168Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:43:53.173Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:46:46.570Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-08T18:52:15.259Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T18:52:15.790Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T18:52:15.796Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-08T18:52:56.944Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-08T19:00:40.467Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-08T19:00:40.756Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-08T19:00:40.759Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T16:35:19.980Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T16:35:20.456Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T16:35:20.469Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T16:40:43.386Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T16:40:43.393Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T16:46:22.761Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T16:46:24.315Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T16:46:24.323Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T16:51:04.880Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T16:51:06.225Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T16:51:06.230Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T16:52:27.003Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T16:52:28.114Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T16:52:28.118Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:10:36.438Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:10:36.741Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:10:36.745Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:16:31.629Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:16:31.701Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movilnet.com.ve
+[2026-01-09T17:16:35.399Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:16:35.504Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin@movilnet.com.ve
+[2026-01-09T17:16:49.125Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:16:49.424Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:16:49.427Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:20:48.639Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:20:49.039Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:20:49.043Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:34:12.042Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:34:12.342Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:34:12.345Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:34:50.239Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:34:50.536Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:34:50.539Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:35:13.994Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:35:14.293Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:35:14.297Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:43:08.549Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T17:43:08.905Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T17:43:08.909Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T17:43:46.181Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-09T19:50:07.940Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T19:50:08.351Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T19:50:08.356Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T19:54:55.688Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T19:54:56.087Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T19:54:56.093Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T19:58:33.813Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T19:58:34.399Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T19:58:34.404Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T20:37:50.159Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T20:37:50.498Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T20:37:50.501Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T20:38:38.490Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T21:40:55.668Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T21:40:56.135Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T21:40:56.144Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T21:40:59.778Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:40:59.782Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:41:33.644Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T21:41:43.512Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:41:43.516Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:41:47.598Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:41:47.601Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:41:54.976Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:41:54.979Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:50:45.002Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T21:50:45.371Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T21:50:45.383Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T21:51:26.133Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:51:26.136Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:51:29.405Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:51:29.408Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:52:14.157Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T21:52:14.162Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T21:57:31.905Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T21:57:32.826Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T21:57:32.832Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T21:59:01.808Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:59:01.810Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T21:59:11.939Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T21:59:11.942Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T22:00:39.685Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T22:00:39.688Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T22:01:23.824Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T22:02:56.922Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T22:02:56.936Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T22:03:14.324Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T22:05:42.071Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T22:05:42.076Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T22:06:11.562Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T22:11:05.457Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:11:06.058Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-09T22:11:06.068Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-09T22:11:12.502Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-09T22:11:12.506Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-09T22:11:45.898Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-09T22:18:53.358Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario

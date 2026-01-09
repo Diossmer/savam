@@ -62,3 +62,70 @@
     at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
     at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
     at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+[2026-01-09T20:38:38.495Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T21:41:33.650Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T22:01:23.828Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T22:03:14.328Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T22:06:11.563Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T22:11:45.899Z] [ERROR] Error al crear usuario - Detalle: Error: Illegal arguments: undefined, string
+    at Object.hashSync (file:///var/www/html/savam/node_modules/bcryptjs/index.js:157:11)
+    at UsuariosRepository.create (/var/www/html/savam/src/repositories/UsuariosRepository.ts:53:24)
+    at UsuarioServices.createUsuario (/var/www/html/savam/src/services/UsuarioServices.ts:15:35)
+    at storeUsuario (/var/www/html/savam/src/controllers/UsuarioController.ts:15:55)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at next (/var/www/html/savam/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/var/www/html/savam/node_modules/router/lib/route.js:117:3)
+    at handle (/var/www/html/savam/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/var/www/html/savam/node_modules/router/lib/layer.js:152:17)
+    at /var/www/html/savam/node_modules/router/index.js:295:15
+[2026-01-09T22:18:53.359Z] [ERROR] Error al crear usuario - Contraseña no proporcionada - Detalle: undefined
