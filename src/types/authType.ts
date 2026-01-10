@@ -14,6 +14,8 @@ export interface AuthResponse {
   token: string;
   usuario: {
     id: string;
+    nombre: string;
+    apellido: string
     correo: string;
     roles: IRol[];
   }
