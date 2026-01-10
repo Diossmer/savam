@@ -4,26 +4,12 @@ Content-Type: application/json
 
 {
   "oficina": "Movilnet",
-  "correo": "moderador@movilnet.com.ve",
+  "correo": "pruebase@movilnet.com.ve",
   "estado": "Bloqueado",
-  "nombre": "Moderador",
+  "nombre": "Pruebase",
   "apellido": "System",
   "cedula": "00000000",
   "password": "12345678",
-  "roles": ["6949b74d15750b560f9dc29f"]
-}
-
-###POST Error (Missing Password)
-POST http://localhost:3000/api/usuarios HTTP/1.1
-Content-Type: application/json
-
-{
-  "oficina": "Movilnet",
-  "correo": "error@movilnet.com.ve",
-  "estado": "Activo",
-  "nombre": "Error",
-  "apellido": "Password",
-  "cedula": "11111111",
   "roles": ["6949b74d15750b560f9dc29f"]
 }
 
@@ -31,7 +17,7 @@ Content-Type: application/json
 GET http://localhost:3000/api/usuarios HTTP/1.1
 
 ###PUT
-PUT http://localhost:3000/api/usuarios/693143e84a22b5c3b19b213d HTTP/1.1
+PUT http://localhost:3000/api/usuarios/6961ab30e38d4ac9327946b5 HTTP/1.1
 Content-Type: application/json
 
 {
@@ -42,11 +28,11 @@ Content-Type: application/json
   "apellido": "asfea",
   "cedula": "434352",
   "password": "2522525",
-  "roles": ["693132e9d099dd07b59dc29f"]
+  "roles": ["6949b74d15750b560f9dc29e"]
 }
 
 ###SHOW
-GET http://localhost:3000/api/usuarios/6947ec6a507f29f3f3d4d1a6 HTTP/1.1
+GET http://localhost:3000/api/usuarios/6961af18a3804e923eba539f HTTP/1.1
 
 ###DELETE
 DELETE http://localhost:3000/api/usuarios/693143e84a22b5c3b19b213d HTTP/1.1

@@ -242,3 +242,38 @@
 [2026-01-09T21:50:45.125Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
 [2026-01-09T21:57:32.014Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
 [2026-01-09T22:11:05.640Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:31:22.773Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:41:43.655Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:47:18.038Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:51:41.566Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:52:57.084Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T22:57:36.620Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T23:33:03.227Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T23:58:42.393Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-09T23:59:16.690Z] [USUARIO] Usuario creado exitosamente - ID: 696196540d50a4480621acf4 - Data: {"roles":"6949b74d15750b560f9dc29e","correo":"diossmer@gmail.com"}
+[2026-01-10T00:26:15.398Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T00:38:06.363Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T00:47:50.852Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T00:49:02.140Z] [USUARIO] Usuario creado exitosamente - ID: 6961a1fe5d35ce7aeee8ba15 - Data: {"roles":"6949b74d15750b560f9dc29e","correo":"palacio.omely@gmail.com"}
+[2026-01-10T00:49:32.675Z] [USUARIO] Usuario eliminado exitosamente - ID: 696196540d50a4480621acf4 - Data: {"nombre":"diosamer","correo":"diossmer@gmail.com"}
+[2026-01-10T01:03:53.185Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T01:05:05.951Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T01:05:52.504Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T01:07:06.006Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T01:09:52.247Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T01:26:57.049Z] [USUARIO] Usuario creado exitosamente - ID: 6961aae06ff5ca32b62e7cb7 - Data: {"roles":"6949b74d15750b560f9dc29f","correo":"prueba@movilnet.com.ve"}
+[2026-01-10T01:28:16.211Z] [USUARIO] Usuario creado exitosamente - ID: 6961ab30e38d4ac9327946b5 - Data: {"roles":"6949b74d15750b560f9dc29f","correo":"pruebas@movilnet.com.ve"}
+[2026-01-10T01:29:09.262Z] [USUARIO] Usuario actualizado exitosamente - ID: 6961ab30e38d4ac9327946b5 - Data: {"roles":null}
+[2026-01-10T01:29:18.477Z] [USUARIO] Usuario actualizado exitosamente - ID: 6961ab30e38d4ac9327946b5 - Data: {"roles":null}
+[2026-01-10T01:29:30.007Z] [USUARIO] Usuario actualizado exitosamente - ID: 6961ab30e38d4ac9327946b5 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]}}
+[2026-01-10T01:43:12.420Z] [USUARIO] Usuario creado exitosamente - ID: 6961aeb0a3804e923eba539a - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]},"correo":"test_pop@movilnet.com.ve"}
+[2026-01-10T01:44:56.995Z] [USUARIO] Usuario creado exitosamente - ID: 6961af18a3804e923eba539f - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]},"correo":"pruebase@movilnet.com.ve"}
+[2026-01-10T02:06:27.207Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-10T02:06:45.307Z] [USUARIO] Usuario actualizado exitosamente - ID: 6961aeb0a3804e923eba539a - Data: {"roles":{"id":"6949b74d15750b560f9dc29e","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-01-10T02:07:20.608Z] [USUARIO] Usuario creado exitosamente - ID: 6961b458a3804e923eba53b1 - Data: {"roles":{"id":"6949b74d15750b560f9dc29e","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"aleluya@gsmil.com"}
+[2026-01-10T02:07:31.534Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961b458a3804e923eba53b1 - Data: {"nombre":"somos","correo":"aleluya@gsmil.com"}
+[2026-01-10T02:07:33.259Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961aeb0a3804e923eba539a - Data: {"nombre":"Testa","correo":"test_pop@movilnet.com.ve"}
+[2026-01-10T02:07:34.694Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961ab30e38d4ac9327946b5 - Data: {"nombre":"aefas","correo":"fae@movilnet.com"}
+[2026-01-10T02:07:36.430Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961aae06ff5ca32b62e7cb7 - Data: {"nombre":"Prueba","correo":"prueba@movilnet.com.ve"}
+[2026-01-10T02:07:38.680Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961a1fe5d35ce7aeee8ba15 - Data: {"nombre":"omely","correo":"palacio.omely@gmail.com"}
+[2026-01-10T02:07:42.774Z] [USUARIO] Usuario eliminado exitosamente - ID: 6961af18a3804e923eba539f - Data: {"nombre":"Pruebase","correo":"pruebase@movilnet.com.ve"}

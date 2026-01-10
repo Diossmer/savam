@@ -21,7 +21,7 @@ export class UsuarioController {
             }
 
             const usuario = await this.usuarioService.createUsuario(req.body);
-            console.log(usuario);
+
             logger.usuario(`Usuario creado exitosamente - ID: ${usuario.id}`, { roles: usuario.roles, correo: usuario.correo });
             res.status(201).json(usuario);
         } catch (error) {
@@ -62,7 +62,9 @@ export class UsuarioController {
     updateUsuarioById = async (req: Request, res: Response): Promise<void> => {
         logger.sistema(`[UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: ${req.params.id}`);
         try {
+            console.log(req.body)
             const usuario = await this.usuarioService.updateUsuario(req.params.id, req.body);
+            console.log(usuario)
             if (!usuario) {
                 logger.sistema(`[UsuarioController] [updateUsuarioById] - Usuario no encontrado para actualizar ID: ${req.params.id}`);
                 res.status(404).json({ message: "Usuario no encontrado" });

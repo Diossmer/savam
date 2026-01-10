@@ -54,7 +54,7 @@ export class UsuariosRepository implements IUsuarioRepository {
       roles: data.roles || [],
     });
 
-    const usuarioGuardado = await nuevoUsuario.save();
+    const usuarioGuardado = await (await nuevoUsuario.save()).populate('roles');
 
     // Mapear de vuelta a la interfaz de la API
     const rolesData = this.rolesAData(usuarioGuardado.roles);
