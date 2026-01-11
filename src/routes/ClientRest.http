@@ -139,7 +139,7 @@ POST http://localhost:3000/api/login HTTP/1.1
 Content-Type: application/json
 
 {
-  "Usuario": "admin@movilnet.com.ve",
+  "Usuario": "moderador@movilnet.com.ve",
   "Password": "12345678"
 }
 ### Logout
@@ -160,3 +160,11 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzRlODRlY
 GET http://localhost:3000/api/profile HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NDliNzliN2EwM2VkODRiYmRjZTA2YiIsImNvcnJlbyI6ImFkbWluQG1vdmlsbmV0LmNvbS52ZSIsInJvbGVzIjpbeyJfaWQiOiI2OTQ5Yjc0ZDE1NzUwYjU2MGY5ZGMyOWQiLCJub21icmUiOiJBZG1pbmlzdHJhZG9yIiwiZGVzY3JpcGNpb24iOiJBZG1pbmlzdHJhZG9yIGRlbCBzaXN0ZW1hLiIsInBlcm1pc29zIjpbImNyZWFyIiwibGVlciIsImJsb3F1ZWFyIiwiYWN0dWFsaXphciIsImNvbnN1bHRhciJdfV0sImlhdCI6MTc2ODA3Njk3NiwiZXhwIjoxNzY4MDgwNTc2fQ.LYNs9s-rRqFFCl-czsQHKtKLJDhH9zMfnJ2qeGMMRaQ
+
+### Consultar WhatsApp
+POST http://localhost:3000/api/consultar-whatsapp HTTP/1.1
+Content-Type: application/json
+
+{
+  "numero": "04121234567"
+}

@@ -4,6 +4,7 @@ import rolesRoutes from "@/routes/RolesRouter";
 import numerosRoutes from "@/routes/NumerosRouter";
 import suscriptorRoutes from "@/routes/SuscriptorRouter";
 import authenticationRouter from "@/routes/AuthenticationRouter";
+import consultaRouter from "@/routes/ConsultaRouter";
 
 export default () => {
   const router = Router();
@@ -19,6 +20,9 @@ export default () => {
 
   // Rutas para Suscriptor
   suscriptorRoutes(router);
+
+  // Rutas para Consulta
+  consultaRouter(router);
 
   // Rutas para Autenticacion
   router.use(authenticationRouter);
