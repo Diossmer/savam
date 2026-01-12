@@ -1045,3 +1045,69 @@
 [2026-01-11T20:51:07.683Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
 [2026-01-11T20:51:07.727Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
 [2026-01-11T20:59:16.989Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T21:04:14.052Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-11T21:04:49.479Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-11T23:09:46.586Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-11T23:10:05.603Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-11T23:10:24.930Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-11T23:54:11.387Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:20.768Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:23.220Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:24.188Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:25.136Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:26.042Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:27.262Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:28.212Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:28.924Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:29.265Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:29.452Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:29.604Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:29.762Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:29.948Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:30.102Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:54:30.265Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-11T23:58:10.352Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:01:49.494Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:01:49.595Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: diossmer@gmail.com
+[2026-01-12T00:01:49.611Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:01:49.705Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: diossmer@gmail.com
+[2026-01-12T00:02:04.052Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:02:55.421Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:10:28.239Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:11:11.517Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-12T00:11:25.575Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-12T00:13:27.589Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:23:44.141Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T00:24:11.840Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6949b8067a03ed84bbdce073
+[2026-01-12T00:53:23.436Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:54:06.653Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69625df0410360e98f079257
+[2026-01-12T00:54:06.711Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer eduardo villamizar marquez
+[2026-01-12T00:54:06.832Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69625df0410360e98f079257
+[2026-01-12T00:54:06.846Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer eduardo villamizar marquez
+[2026-01-12T00:54:14.815Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69625df0410360e98f079257
+[2026-01-12T00:54:14.820Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer eduardo villamizar marquez
+[2026-01-12T00:54:14.921Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T00:54:14.978Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T00:54:15.342Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T00:54:15.345Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T00:54:29.048Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-12T00:55:10.774Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: Diossmer@gmail.com
+[2026-01-12T00:55:10.778Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: Diossmer@gmail.com
+[2026-01-12T00:55:16.160Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T00:57:54.166Z] [SISTEMA] [AuthenticationController] [profile] - Solicitud de perfil para ID: 6949b8067a03ed84bbdce073
+[2026-01-12T00:58:04.373Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T00:59:20.388Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T01:02:39.402Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:02:54.194Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:03:10.606Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:03:14.307Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:04:23.735Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:05:41.543Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:08:40.106Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-12T01:08:40.666Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T01:08:40.687Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T01:09:03.475Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-12T01:09:15.934Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T01:34:04.561Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T01:34:05.263Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T01:34:05.275Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
