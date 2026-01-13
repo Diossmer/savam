@@ -1,10 +1,9 @@
 import { Router, Request, Response } from 'express';
 
 // --- CONFIGURACIÓN ---
-// Asegúrate de que estos valores son correctos
-const WHATSAPP_API_VERSION = 'v24.0'; // Tu versión está bien
-const WHATSAPP_PHONE_NUMBER_ID = '946340838565364'; // Tu ID es correcto
-const WHATSAPP_ACCESS_TOKEN = 'EAAL9CodT7xsBQad3bioppDE6HoEFU1y4ZCiTOTGpuI8kJfbyJP9GoAQlxiels4FSGRAVbWG1H3Oade11fXUvVWATI8nlXbh5tazx9KJDAoeaVb1FPJ1VXIwgyWXLIU0dCKAFGDiNn8BoyUnLq3jdDksfcZADLthx4ZCeZApcwPhGVX0NXvVdIjs3ZAOPQQTVmMAZDZD';
+const WHATSAPP_ACCESS_TOKEN = 'EAAL9CodT7xsBQQzz96zN0nsFdPbM5QyYjOzxYCzMIBmb6Ej0U6eHCaGBUfxPqDrYDGteZCUWFOG9hz0QT4NYF9O07ERZByJ4PfhPFfTAgxncCWd8Vj86XtBgvtwAs7OD2sS7kFfxb0mIB2MAEgPkRXhrdBnlbDd5H2bT9GU1UPwQZBaTmMh2SB0X1HLs9bes9Voy64nNfiycWxl0SvrQwoameZC9GROnIdvHdd41ZBZAflN3CZBpWhPVSIGMTKpmg88uEOKUy06VZBZC0NI80YzgqIzQU';
+// TODO: Reemplaza esto con tu ID de número de teléfono real (Obtenido en el Dashboard de Meta)
+const PHONE_NUMBER_ID = '946340838565364';
 
 export default (router: Router) => {
 
@@ -17,8 +16,10 @@ export default (router: Router) => {
 
     const numeroFormateado = '58' + numero.trim().substring(1);
 
-    // --- NUEVA LÓGICA: Enviar un mensaje de plantilla ---
-    const url = `https://graph.facebook.com/${WHATSAPP_API_VERSION}/${WHATSAPP_PHONE_NUMBER_ID}/messages`;
+    // --- LÓGICA CORREGIDA: Usar WhatsApp Cloud API (Graph API) ---
+    // NO usar api.whatsapp.com (eso es solo para abrir la app en el navegador/celular)
+    // Documentación: https://developers.facebook.com/docs/whatsapp/cloud-api/reference/messages
+    const url = `https://graph.facebook.com/v17.0/${PHONE_NUMBER_ID}/messages`;
 
     // Cuerpo de la petición para enviar la plantilla "hello_world"
     const requestBody = {
@@ -37,7 +38,7 @@ export default (router: Router) => {
 
     try {
       const response = await fetch(url, {
-        method: 'POST',
+        method: 'POST', // IMPORTANTE: La API de grafos requiere POST para enviar mensajes
         headers: {
           'Authorization': `Bearer ${WHATSAPP_ACCESS_TOKEN}`,
           'Content-Type': 'application/json'
@@ -46,7 +47,13 @@ export default (router: Router) => {
       });
 
       if (!response.ok) {
-        const errorData = await response.json().catch(() => ({}));
+        const errorData = await response.json().then(
+          (data) => {
+            console.log(data);
+            return data;
+          }
+        )
+          .catch(() => ({}));
         const detallesMeta = errorData.error;
         console.error('[WhatsApp API Error]:', detallesMeta);
 
@@ -64,6 +71,8 @@ export default (router: Router) => {
           message: detallesMeta?.message || 'Error en la API de WhatsApp.'
         });
       }
+
+      console.log(response.status);
 
       // Si la respuesta es OK (2xx), significa que la API aceptó el envío.
       console.log(`[WhatsApp] Éxito. El número ${numeroFormateado} es un destinatario válido.`);

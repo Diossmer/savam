@@ -1,0 +1,205 @@
+[2026-01-12T17:48:25.682Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-12T17:48:26.247Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T17:48:26.260Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-12T17:49:33.639Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T17:49:33.648Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-01-12T17:49:38.034Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T17:49:38.038Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T17:50:12.551Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-12T17:50:12.705Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T17:50:12.713Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T17:50:15.414Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-12T17:50:15.421Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-12T17:50:19.120Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-12T17:50:29.145Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-12T17:50:29.752Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T17:50:29.761Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T17:50:40.215Z] [SISTEMA] [AuthenticationController] [updatePassword] - Intento de actualización de contraseña
+[2026-01-12T17:50:44.096Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T17:50:44.104Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T17:50:49.838Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-12T22:58:42.323Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T22:58:42.879Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T22:58:42.895Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T22:58:44.926Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T22:58:44.930Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T23:38:07.390Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-12T23:38:07.892Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T23:38:07.903Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T23:52:11.738Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-12T23:52:12.147Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T23:52:12.154Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T23:57:44.966Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-12T23:57:45.367Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T23:57:45.375Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-12T23:58:58.894Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b8067a03ed84bbdce073
+[2026-01-12T23:58:58.906Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Moderador System
+[2026-01-12T23:59:01.961Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-12T23:59:01.966Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-12T23:59:06.160Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b8067a03ed84bbdce073
+[2026-01-12T23:59:06.165Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Moderador System
+[2026-01-12T23:59:09.437Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-12T23:59:09.441Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-12T23:59:47.232Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-12T23:59:47.236Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-12T23:59:49.928Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-12T23:59:49.931Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-12T23:59:49.948Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T23:59:49.950Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T23:59:49.984Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-12T23:59:49.986Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-12T23:59:56.546Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-12T23:59:56.951Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-12T23:59:56.955Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:00:41.606Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-13T00:00:41.712Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: diossmer@gmail.com
+[2026-01-13T00:00:52.055Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-13T00:00:52.160Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: diossmer@gmail.com
+[2026-01-13T00:01:13.555Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T00:01:13.859Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:01:13.863Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:01:23.999Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:01:24.003Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:01:24.095Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:01:24.097Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:01:31.680Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:01:32.389Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:01:32.394Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:15:03.666Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T00:15:04.068Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:15:04.072Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:15:10.620Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:15:10.624Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:15:11.031Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:15:11.034Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:15:16.254Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T00:15:31.317Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-13T00:15:31.717Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:15:31.722Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:15:38.076Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:15:38.080Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:15:40.831Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:15:40.836Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:15:40.840Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:15:40.842Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:15:40.865Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:15:40.867Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:15:55.891Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:15:56.022Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:15:56.024Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:15:59.878Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:15:59.881Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:16:08.588Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:16:08.591Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:16:08.592Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:16:08.594Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:16:08.627Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:16:08.629Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:16:23.948Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-13T00:16:24.351Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:16:24.356Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:16:37.772Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:16:37.774Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:16:44.432Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:16:44.434Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:16:50.880Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T00:16:50.884Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T00:16:52.921Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:16:52.923Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:17:10.445Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b8067a03ed84bbdce073
+[2026-01-13T00:17:10.449Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Moderador System
+[2026-01-13T00:17:10.534Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:17:10.536Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:17:12.275Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T00:17:12.279Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T00:17:12.378Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:17:12.379Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:17:16.064Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T00:17:16.066Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T00:17:33.377Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T00:17:45.255Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-13T17:37:58.894Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:37:59.352Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:37:59.368Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:38:03.122Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:03.126Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:05.698Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:05.702Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:10.407Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-13T17:38:10.423Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-13T17:38:12.864Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-13T17:38:12.872Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-13T17:38:12.889Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:12.892Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:13.272Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:13.275Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:14.095Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-13T17:38:14.136Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:38:14.144Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:38:35.221Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:38:35.226Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:38:44.574Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:38:44.577Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:44.582Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:44.585Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:38:44.606Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:38:44.609Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:38:49.886Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:38:50.046Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:38:50.053Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:38:54.408Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:39:03.629Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: diossmer@gmail.com
+[2026-01-13T17:39:04.036Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:39:04.042Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:39:31.707Z] [SISTEMA] [AuthenticationController] [updatePassword] - Intento de actualización de contraseña
+[2026-01-13T17:39:36.604Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:39:52.593Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-13T17:52:46.281Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:52:46.884Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:52:46.890Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:53:04.302Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:53:04.309Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:53:13.423Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:53:13.428Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:53:15.567Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:53:15.572Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:53:15.574Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:53:15.577Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:53:15.713Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:53:15.716Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:53:19.049Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:53:19.054Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:53:19.151Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:53:19.154Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:54:19.606Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b8067a03ed84bbdce073
+[2026-01-13T17:54:19.612Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Moderador System
+[2026-01-13T17:54:19.651Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:54:19.654Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:54:37.300Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:54:37.306Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:54:42.828Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:55:27.788Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:55:28.198Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:55:28.205Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:55:59.926Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:56:12.299Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-13T17:56:12.596Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:56:12.601Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:56:46.772Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:56:46.775Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:56:53.229Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 69653454725e1bd2b5f615b6
+[2026-01-13T17:56:53.236Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: diossmer villamizar
+[2026-01-13T17:56:53.278Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:56:53.281Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:57:02.969Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-13T17:57:02.974Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-13T17:57:03.002Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-13T17:57:03.006Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-13T17:57:22.720Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:57:35.446Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:57:36.053Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-13T17:57:36.058Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-13T17:57:44.467Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T17:57:54.311Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-13T17:59:45.007Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-13T19:18:13.187Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve

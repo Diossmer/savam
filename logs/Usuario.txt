@@ -1,0 +1,28 @@
+[2026-01-12T17:48:25.858Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-12T17:50:12.680Z] [USUARIO] Usuario creado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]},"correo":"diossmer@gmail.com"}
+[2026-01-12T17:50:29.277Z] [USUARIO] Inicio de sesión exitoso - Usuario: diossmer@gmail.com
+[2026-01-12T17:50:40.480Z] [USUARIO] Contraseña actualizada para usuario: diossmer@gmail.com
+[2026-01-12T22:58:42.506Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-12T23:38:07.531Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-12T23:52:11.877Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-12T23:57:45.106Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-12T23:59:56.557Z] [USUARIO] Usuario actualizado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29d","nombre":"Administrador","descripcion":"Administrador del sistema.","permisos":["crear","leer","bloquear","actualizar","consultar"]}}
+[2026-01-13T00:01:13.661Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T00:01:31.788Z] [USUARIO] Usuario actualizado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29d","nombre":"Administrador","descripcion":"Administrador del sistema.","permisos":["crear","leer","bloquear","actualizar","consultar"]}}
+[2026-01-13T00:15:03.773Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T00:15:31.422Z] [USUARIO] Inicio de sesión exitoso - Usuario: diossmer@gmail.com
+[2026-01-13T00:15:55.999Z] [USUARIO] Usuario actualizado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]}}
+[2026-01-13T00:16:24.054Z] [USUARIO] Inicio de sesión exitoso - Usuario: diossmer@gmail.com
+[2026-01-13T00:17:45.361Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-13T17:37:59.076Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:38:14.111Z] [USUARIO] Usuario actualizado exitosamente - ID: 6949b7d87a03ed84bbdce06f - Data: {"roles":{"id":"6949b74d15750b560f9dc29e","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-01-13T17:38:50.033Z] [USUARIO] Usuario actualizado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]}}
+[2026-01-13T17:39:03.768Z] [USUARIO] Inicio de sesión exitoso - Usuario: diossmer@gmail.com
+[2026-01-13T17:39:31.957Z] [USUARIO] Contraseña actualizada para usuario: diossmer@gmail.com
+[2026-01-13T17:39:52.733Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-13T17:52:46.421Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:55:27.927Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:56:12.425Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-13T17:57:35.571Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-13T17:57:54.450Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-13T19:18:13.373Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
