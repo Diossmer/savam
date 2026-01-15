@@ -34,35 +34,94 @@ async function validarTelefonoWhatsApp(phone: string): Promise<ValidacionWhatsAp
     // Esperamos un tiempo prudente
     await page.waitForTimeout(5000);
 
-    // WhatsApp muestra este texto cuando el número NO existe
-    const mensajeError = "no existe en WhatsApp";
+    // WhatsApp muestra este texto cuando el número NO existe (ES y EN)
+    const mensajesError = [
+      "no existe en WhatsApp",
+      "isn't on WhatsApp",
+      "no está en WhatsApp"
+    ];
+
+    // Texto genérico a ignorar cuando lo encontramos en H2/H3
+    const mensajesIgnorar = [
+      "WhatsApp installed",
+      "instalada la aplicación",
+      "Chatea en WhatsApp con",
+      "Chat on WhatsApp with"
+    ];
 
     // Buscamos si el cuerpo de la página contiene el mensaje de error
     const contenido = await page.content();
-    const esInactivo = contenido.includes(mensajeError);
+    const esInactivo = mensajesError.some(msg => contenido.includes(msg));
 
-    // INTENTO DE EXTRACTOR DE NOMBRE / IDENTIFICADOR
-    // Buscamos el H2 principal que suele contener el Nombre o el texto "Chatea en WhatsApp con..."
+    // EXTRACTOR DE INFORMACIÓN DE PERFIL MEJORADO
     let tituloPagina = "";
+    let tieneImagen = false;
+
     try {
-      const h2Element = await page.locator('h2');
-      if (await h2Element.count() > 0) {
-        tituloPagina = await h2Element.first().innerText();
+      // 1. Detectar imagen de perfil REAL (Solo las de pps.whatsapp.net son fotos de usuario)
+      const imgSelector = 'img[src*="pps.whatsapp.net"]';
+      const imgElement = page.locator(imgSelector).first();
+      if (await imgElement.count() > 0) {
+        tieneImagen = true;
       }
+
+      // 2. Obtener el nombre (H3 o H2)
+      const selectoresNombre = ['h3._9vd5', 'h2._9vd5', 'h3', 'h2'];
+
+      for (const selector of selectoresNombre) {
+        const elementos = page.locator(selector);
+        const count = await elementos.count();
+
+        for (let i = 0; i < count; i++) {
+          const texto = await elementos.nth(i).innerText();
+          const textoLimpio = texto?.trim() || "";
+
+          if (textoLimpio) {
+            // Verificamos si es un mensaje genérico de "Chatea con..."
+            const esIgnorable = mensajesIgnorar.some(ignore =>
+              textoLimpio.toLowerCase().includes(ignore.toLowerCase()) ||
+              textoLimpio.toLowerCase().startsWith("chatea en whatsapp con") ||
+              textoLimpio.toLowerCase().startsWith("chat on whatsapp with")
+            );
+
+            if (!esIgnorable) {
+              tituloPagina = textoLimpio;
+              break;
+            } else if (!tituloPagina) {
+              // Si es ignorable pero aún no tenemos nada, lo guardamos como backup por si acaso
+              tituloPagina = textoLimpio;
+            }
+          }
+        }
+        if (tituloPagina && !mensajesIgnorar.some(ignore => tituloPagina.toLowerCase().includes(ignore.toLowerCase()))) {
+          break;
+        }
+      }
+
     } catch (e) {
-      console.log("No se pudo extraer H2");
+      console.error("Error al extraer info de perfil:", e);
     }
 
     await browser.close();
 
     // Si dice "no existe", es inactivo (false)
     if (esInactivo) {
-      return { valido: false, titulo: tituloPagina || "No existe" };
+      return { valido: false, titulo: "No existe" };
     }
 
-    // Si no dice "no existe", asumimos que la página cargó el prompt de chat.
-    // El usuario quiere distinguir entre "Nombre" y "Chatea con el numero..."
-    return { valido: true, titulo: tituloPagina };
+    // 4. Determinar validez final
+    // Si el título es genérico Y no tiene imagen real, es FALSO
+    const esTituloGenerico = mensajesIgnorar.some(ignore =>
+      tituloPagina.toLowerCase().includes(ignore.toLowerCase())
+    );
+
+    if (esTituloGenerico && !tieneImagen) {
+      console.log(`[ConsultaRouter] Marcando como INACTIVO (genérico sin imagen): ${tituloPagina}`);
+      return { valido: false, titulo: tituloPagina || "Sin identificar" };
+    }
+
+    // Si tiene imagen o el título no es genérico, es un perfil real
+    return { valido: true, titulo: tituloPagina || "Sin identificar" };
   } catch (error) {
     console.error("Error al validar con Playwright:", error);
     throw error;
