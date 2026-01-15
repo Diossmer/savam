@@ -235,3 +235,5 @@
 [2026-01-14T19:39:56.440Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
 [2026-01-14T19:39:56.460Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
 [2026-01-14T19:39:56.462Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-15T18:18:50.970Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-15T18:33:49.816Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
