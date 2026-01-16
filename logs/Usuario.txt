@@ -32,3 +32,28 @@
 [2026-01-14T19:39:54.846Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
 [2026-01-15T18:18:51.159Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
 [2026-01-15T18:33:49.966Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T14:45:18.104Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T14:49:11.595Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T14:50:39.703Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T14:53:15.351Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:00:59.953Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:17:43.348Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:17:50.374Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:19:25.182Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:19:26.356Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:19:58.007Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:23:59.297Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:27:02.894Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:27:29.953Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:28:03.540Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:28:28.499Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:29:03.616Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:29:25.583Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:29:39.667Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:29:49.214Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:40:43.426Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:41:40.233Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:42:00.438Z] [USUARIO] Consulta de número 04166334749 - Data: {"whatsapp":true,"telegram":false,"titulo":"Rosa Omely"}
+[2026-01-16T15:42:06.728Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T15:42:29.908Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
+[2026-01-16T15:51:04.449Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
