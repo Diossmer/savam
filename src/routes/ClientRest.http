@@ -101,13 +101,13 @@ POST http://localhost:3000/api/suscriptor HTTP/1.1
 Content-Type: application/json
 
 {
-  "numeroTelefono": "04265848844",
-  "estatus": "Activo",
-  "operador": "Agente222",
+  "cedula": "V-253451",
   "fecha": "2025-12-04T02:56:26.000Z",
+  "numeroTelefono": "04265848844",
+  "operador": "Agente222",
   "whatsapp": true,
   "telegram": false,
-  "cedula": "V-253451"
+  "estatus": "Activo",
 }
 
 ###GET suscriptor
