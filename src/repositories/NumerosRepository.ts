@@ -6,10 +6,8 @@ export class NumerosRepository implements INumerosRepository {
     // Mapear de la interfaz de la API al esquema de MongoDB
     const nuevoUsuario = new NumerosModel({
       cedula: data.cedula,
-      estatus: data.estatus,
-      numeroTelefono: data.numeroTelefono,
-      fecha_creacion: data.fecha_creacion,
-      fecha_actualizacion: data.fecha_actualizacion,
+      numero: data.numero,
+      fechaDeConsulta: data.fechaDeConsulta,
     });
 
     const usuarioGuardado = await nuevoUsuario.save();
@@ -18,10 +16,8 @@ export class NumerosRepository implements INumerosRepository {
     return {
       id: usuarioGuardado._id.toString(),
       cedula: usuarioGuardado.cedula,
-      estatus: usuarioGuardado.estatus,
-      numeroTelefono: usuarioGuardado.numeroTelefono,
-      fecha_creacion: usuarioGuardado.fecha_creacion,
-      fecha_actualizacion: usuarioGuardado.fecha_actualizacion,
+      numero: usuarioGuardado.numero,
+      fechaDeConsulta: usuarioGuardado.fechaDeConsulta,
     };
   }
 
@@ -33,9 +29,8 @@ export class NumerosRepository implements INumerosRepository {
       id: usuario._id.toString(),
       cedula: usuario.cedula,
       estatus: usuario.estatus,
-      numeroTelefono: usuario.numeroTelefono,
-      fecha_creacion: usuario.fecha_creacion,
-      fecha_actualizacion: usuario.fecha_actualizacion,
+      numero: usuario.numero,
+      fechaDeConsulta: usuario.fechaDeConsulta,
     }));
   }
 
@@ -48,10 +43,8 @@ export class NumerosRepository implements INumerosRepository {
     return {
       id: (usuario as any)._id.toString(),
       cedula: (usuario as any).cedula,
-      estatus: (usuario as any).estatus,
-      numeroTelefono: (usuario as any).numeroTelefono,
-      fecha_creacion: (usuario as any).fecha_creacion,
-      fecha_actualizacion: (usuario as any).fecha_actualizacion,
+      numero: (usuario as any).numero,
+      fechaDeConsulta: (usuario as any).fechaDeConsulta,
     };
   }
 
@@ -62,19 +55,15 @@ export class NumerosRepository implements INumerosRepository {
     }
     // Mapear de la interfaz de la API al esquema de MongoDB
     usuario.cedula = data.cedula;
-    usuario.estatus = data.estatus;
-    usuario.numeroTelefono = data.numeroTelefono;
-    usuario.fecha_creacion = data.fecha_creacion;
-    usuario.fecha_actualizacion = data.fecha_actualizacion;
+    usuario.numero = data.numero;
+    usuario.fechaDeConsulta = data.fechaDeConsulta;
     const usuarioGuardado = await usuario.save();
     // Mapear de vuelta a la interfaz de la API
     return {
       id: usuarioGuardado._id.toString(),
       cedula: usuarioGuardado.cedula,
-      estatus: usuarioGuardado.estatus,
-      numeroTelefono: usuarioGuardado.numeroTelefono,
-      fecha_creacion: usuarioGuardado.fecha_creacion,
-      fecha_actualizacion: usuarioGuardado.fecha_actualizacion,
+      numero: usuarioGuardado.numero,
+      fechaDeConsulta: usuarioGuardado.fechaDeConsulta,
     };
   }
 }

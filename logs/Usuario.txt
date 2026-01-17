@@ -57,3 +57,31 @@
 [2026-01-16T15:42:06.728Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
 [2026-01-16T15:42:29.908Z] [USUARIO] Consulta de número 04265717721 - Data: {"whatsapp":true,"telegram":false,"titulo":"Confecciones Nohemi"}
 [2026-01-16T15:51:04.449Z] [USUARIO] Consulta de número 04166334740 - Data: {"whatsapp":false,"telegram":false,"titulo":"Chat on WhatsApp with +58 416-6334740"}
+[2026-01-16T19:39:39.042Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-16T19:39:55.202Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T19:41:19.764Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T19:48:23.704Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:03:46.934Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:05.544Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:08.245Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:16.072Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:11:34.791Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:21:17.145Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:29:25.247Z] [USUARIO] Número creado exitosamente - ID: 696abbc523e7977d0fc7e878 - Data: {"telefono":"04141234567"}
+[2026-01-16T22:30:04.051Z] [USUARIO] Número actualizado exitosamente - ID: 696abbc523e7977d0fc7e878 - Data: {"telefono":"04147777777"}
+[2026-01-16T22:34:29.918Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:38:58.117Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:39:20.512Z] [USUARIO] Número creado exitosamente - ID: 696abe1823e7977d0fc7e887 - Data: {"telefono":"04265875555"}
+[2026-01-16T23:04:08.116Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:09:28.327Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:19:36.502Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:20:23.913Z] [USUARIO] Número creado exitosamente - ID: 696ac7b7fd59ef990da2a6a4 - Data: {"telefono":"04265875555"}
+[2026-01-16T23:28:38.082Z] [USUARIO] Número creado exitosamente - ID: 696ac9a6fd59ef990da2a6a7 - Data: {"telefono":"04141234567"}
+[2026-01-16T23:40:10.489Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-16T23:43:42.319Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-16T23:50:38.062Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:54:05.223Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:57:16.939Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:59:45.170Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-17T00:02:28.160Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-17T00:02:36.585Z] [USUARIO] Número creado exitosamente - ID: 696ad19c0f6829a0f09ec107 - Data: {"telefono":"04265875555"}

@@ -3,10 +3,8 @@ import { Repository } from "./repositoriesType";
 export interface Numeros {
   id: string;
   cedula: string;
-  estatus: string;
-  numeroTelefono: string;
-  fecha_creacion: Date;
-  fecha_actualizacion: Date;
+  numero: string;
+  fechaDeConsulta: Date;
 }
 
 //buscar la data de la base de datos Usuarios en el repositorio

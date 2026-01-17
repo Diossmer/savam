@@ -38,6 +38,7 @@ export class AuthenticationServices implements IAuthenticationService {
         id: usuario._id.toString(),
         nombre: usuario.nombre,
         apellido: usuario.apellido,
+        cedula: usuario.cedula,
         correo: usuario.correo,
         roles: usuario.roles.length > 0 ? (usuario.roles[0] as any) : null
       }

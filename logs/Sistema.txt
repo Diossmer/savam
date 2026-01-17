@@ -237,3 +237,74 @@
 [2026-01-14T19:39:56.462Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
 [2026-01-15T18:18:50.970Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
 [2026-01-15T18:33:49.816Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T19:39:38.844Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin@movilnet.com.ve
+[2026-01-16T19:39:39.285Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-16T19:39:39.302Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-16T19:39:43.143Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-16T19:39:55.059Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T19:41:19.625Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T19:48:23.555Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:03:46.786Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:05.411Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:08.102Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:09:15.931Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:11:34.619Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T20:21:16.972Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:29:01.088Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Buscando número ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:01.115Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Número no encontrado ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:10.381Z] [SISTEMA] [NumerosController] [updateNumerosById] - Iniciando actualización de número ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:10.386Z] [SISTEMA] [NumerosController] [updateNumerosById] - Número no encontrado para actualizar ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:18.047Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T22:29:18.053Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 0
+[2026-01-16T22:29:21.147Z] [SISTEMA] [NumerosController] [updateNumerosById] - Iniciando actualización de número ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:21.149Z] [SISTEMA] [NumerosController] [updateNumerosById] - Número no encontrado para actualizar ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:25.222Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T22:29:39.169Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T22:29:39.172Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T22:29:44.524Z] [SISTEMA] [NumerosController] [updateNumerosById] - Iniciando actualización de número ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:44.527Z] [SISTEMA] [NumerosController] [updateNumerosById] - Número no encontrado para actualizar ID: 6934dd3f71b2488d431cd2d9
+[2026-01-16T22:29:53.475Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T22:29:53.478Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T22:30:04.038Z] [SISTEMA] [NumerosController] [updateNumerosById] - Iniciando actualización de número ID: 696abbc523e7977d0fc7e878
+[2026-01-16T22:30:12.333Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Buscando número ID: 696abbc523e7977d0fc7e878
+[2026-01-16T22:30:12.337Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Número encontrado: 04147777777
+[2026-01-16T22:30:13.929Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Buscando número ID: 696abbc523e7977d0fc7e878
+[2026-01-16T22:30:13.932Z] [SISTEMA] [NumerosController] [indexListNumerosById] - Número encontrado: 04147777777
+[2026-01-16T22:30:16.926Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T22:30:16.928Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T22:34:29.732Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:34:56.571Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T22:38:57.988Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T22:39:20.506Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T22:39:56.341Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T22:39:56.346Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 2
+[2026-01-16T23:04:07.971Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:04:16.491Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:04:53.170Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:09:28.182Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:09:37.195Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:19:36.357Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:19:42.337Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:20:23.869Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:20:40.690Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T23:20:40.717Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 3
+[2026-01-16T23:28:38.061Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:28:43.466Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T23:28:43.469Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T23:40:10.314Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-16T23:40:31.891Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-16T23:40:31.900Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-16T23:43:42.149Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-01-16T23:50:37.917Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:50:43.947Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-16T23:54:05.082Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:54:38.861Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T23:54:38.865Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T23:54:49.739Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-16T23:54:49.743Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 1
+[2026-01-16T23:57:16.806Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-16T23:59:45.021Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-17T00:02:28.021Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-17T00:02:36.573Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-17T00:02:58.536Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-01-17T00:02:58.539Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 2

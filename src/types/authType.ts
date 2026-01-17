@@ -16,6 +16,7 @@ export interface AuthResponse {
     id: string;
     nombre: string;
     apellido: string
+    cedula: string
     correo: string;
     roles: IRol[];
   }
