@@ -216,3 +216,101 @@
 [2026-01-17T21:51:20.208Z] [USUARIO] Número creado exitosamente - ID: 696c0458900a13b8f6c83ff4 - Data: {"telefono":"04265757875"}
 [2026-01-17T21:52:31.270Z] [USUARIO] Número creado exitosamente - ID: 696c049f900a13b8f6c83ff7 - Data: {"telefono":"04265757875"}
 [2026-01-17T21:53:13.930Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c04c9cfe982a8d5e86bcc - Data: {"cedula":"21310567"}
+[2026-01-17T22:56:36.067Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:04:36.177Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:07:03.120Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:27:41.736Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:27:41.809Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:35:43.429Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:36:48.149Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:37:35.578Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:37:38.294Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:41:44.002Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:43:57.467Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:49:30.436Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-17T23:58:13.036Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-17T23:58:38.362Z] [USUARIO] Número creado exitosamente - ID: 696c222ecc4baca2b1ced8b5 - Data: {"telefono":"04262158763"}
+[2026-01-17T23:58:42.377Z] [USUARIO] Número creado exitosamente - ID: 696c2232cc4baca2b1ced8b7 - Data: {"telefono":"04262158763"}
+[2026-01-17T23:58:44.735Z] [USUARIO] Número creado exitosamente - ID: 696c2234cc4baca2b1ced8b9 - Data: {"telefono":"04262158763"}
+[2026-01-17T23:58:46.052Z] [USUARIO] Número creado exitosamente - ID: 696c2236cc4baca2b1ced8bb - Data: {"telefono":"04262158763"}
+[2026-01-17T23:59:55.083Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-17T23:59:58.601Z] [USUARIO] Número creado exitosamente - ID: 696c227ec3195decd3f19015 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:00:14.660Z] [USUARIO] Número creado exitosamente - ID: 696c228ec3195decd3f19017 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:00:22.274Z] [USUARIO] Número creado exitosamente - ID: 696c2296c3195decd3f19019 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:00:31.352Z] [USUARIO] Número creado exitosamente - ID: 696c229fc3195decd3f1901b - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:01.556Z] [USUARIO] Número creado exitosamente - ID: 696c22bdc3195decd3f1901d - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:35.138Z] [USUARIO] Número creado exitosamente - ID: 696c22dfc3195decd3f1901f - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:53.020Z] [USUARIO] Número creado exitosamente - ID: 696c22f1c3195decd3f19021 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:55.175Z] [USUARIO] Número creado exitosamente - ID: 696c22f3c3195decd3f19023 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:56.712Z] [USUARIO] Número creado exitosamente - ID: 696c22f4c3195decd3f19025 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:58.178Z] [USUARIO] Número creado exitosamente - ID: 696c22f6c3195decd3f19027 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:01:59.459Z] [USUARIO] Número creado exitosamente - ID: 696c22f7c3195decd3f19029 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:02:00.793Z] [USUARIO] Número creado exitosamente - ID: 696c22f8c3195decd3f1902b - Data: {"telefono":"04262158763"}
+[2026-01-18T00:02:01.915Z] [USUARIO] Número creado exitosamente - ID: 696c22f9c3195decd3f1902d - Data: {"telefono":"04262158763"}
+[2026-01-18T00:02:34.151Z] [USUARIO] Número creado exitosamente - ID: 696c231ac3195decd3f1902f - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:05.936Z] [USUARIO] Número creado exitosamente - ID: 696c2339c3195decd3f19031 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:12.424Z] [USUARIO] Número creado exitosamente - ID: 696c2340c3195decd3f19033 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:22.178Z] [USUARIO] Número creado exitosamente - ID: 696c234a335680e23d786c40 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:30.868Z] [USUARIO] Número creado exitosamente - ID: 696c2352335680e23d786c42 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:32.543Z] [USUARIO] Número creado exitosamente - ID: 696c2354335680e23d786c44 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:34.497Z] [USUARIO] Número creado exitosamente - ID: 696c2356335680e23d786c46 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:36.237Z] [USUARIO] Número creado exitosamente - ID: 696c2358335680e23d786c48 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:37.576Z] [USUARIO] Número creado exitosamente - ID: 696c2359335680e23d786c4a - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:38.377Z] [USUARIO] Número creado exitosamente - ID: 696c235a335680e23d786c4c - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:39.272Z] [USUARIO] Número creado exitosamente - ID: 696c235b335680e23d786c4e - Data: {"telefono":"04262158763"}
+[2026-01-18T00:03:40.329Z] [USUARIO] Número creado exitosamente - ID: 696c235c335680e23d786c50 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:04:13.538Z] [USUARIO] Número creado exitosamente - ID: 696c237d335680e23d786c52 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:04:47.105Z] [USUARIO] Número creado exitosamente - ID: 696c239f335680e23d786c54 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:05:18.220Z] [USUARIO] Número creado exitosamente - ID: 696c23be335680e23d786c56 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:05:51.667Z] [USUARIO] Número creado exitosamente - ID: 696c23df335680e23d786c58 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:06:26.393Z] [USUARIO] Número creado exitosamente - ID: 696c2402335680e23d786c5a - Data: {"telefono":"04262158763"}
+[2026-01-18T00:06:57.954Z] [USUARIO] Número creado exitosamente - ID: 696c2421335680e23d786c5c - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:00.671Z] [USUARIO] Número creado exitosamente - ID: 696c2424335680e23d786c5e - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:01.945Z] [USUARIO] Número creado exitosamente - ID: 696c2425335680e23d786c60 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:05.628Z] [USUARIO] Número creado exitosamente - ID: 696c2429335680e23d786c62 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:06.752Z] [USUARIO] Número creado exitosamente - ID: 696c242a335680e23d786c64 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:08.806Z] [USUARIO] Número creado exitosamente - ID: 696c242c335680e23d786c66 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:10.548Z] [USUARIO] Número creado exitosamente - ID: 696c242e335680e23d786c68 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:11.871Z] [USUARIO] Número creado exitosamente - ID: 696c242f335680e23d786c6a - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:12.994Z] [USUARIO] Número creado exitosamente - ID: 696c2430335680e23d786c6c - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:15.078Z] [USUARIO] Número creado exitosamente - ID: 696c2433335680e23d786c6e - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:16.056Z] [USUARIO] Número creado exitosamente - ID: 696c2434335680e23d786c70 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:16.859Z] [USUARIO] Número creado exitosamente - ID: 696c2434335680e23d786c72 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:17.604Z] [USUARIO] Número creado exitosamente - ID: 696c2435335680e23d786c74 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:18.526Z] [USUARIO] Número creado exitosamente - ID: 696c2436335680e23d786c76 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:19.447Z] [USUARIO] Número creado exitosamente - ID: 696c2437335680e23d786c78 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:20.981Z] [USUARIO] Número creado exitosamente - ID: 696c2438335680e23d786c7a - Data: {"telefono":"04262158763"}
+[2026-01-18T00:07:53.739Z] [USUARIO] Número creado exitosamente - ID: 696c2459335680e23d786c7c - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:11.128Z] [USUARIO] Número creado exitosamente - ID: 696c246b335680e23d786c7e - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:13.491Z] [USUARIO] Número creado exitosamente - ID: 696c246d335680e23d786c80 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:14.741Z] [USUARIO] Número creado exitosamente - ID: 696c246e335680e23d786c82 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:15.761Z] [USUARIO] Número creado exitosamente - ID: 696c246f335680e23d786c84 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:32.701Z] [USUARIO] Número creado exitosamente - ID: 696c24804342f2641ed44d39 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:34.302Z] [USUARIO] Número creado exitosamente - ID: 696c24824342f2641ed44d3b - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:35.813Z] [USUARIO] Número creado exitosamente - ID: 696c24834342f2641ed44d3d - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:36.754Z] [USUARIO] Número creado exitosamente - ID: 696c24844342f2641ed44d3f - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:37.676Z] [USUARIO] Número creado exitosamente - ID: 696c24854342f2641ed44d41 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:38.499Z] [USUARIO] Número creado exitosamente - ID: 696c24864342f2641ed44d43 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:39.927Z] [USUARIO] Número creado exitosamente - ID: 696c24874342f2641ed44d45 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:40.540Z] [USUARIO] Número creado exitosamente - ID: 696c24884342f2641ed44d47 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:41.360Z] [USUARIO] Número creado exitosamente - ID: 696c24894342f2641ed44d49 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:42.383Z] [USUARIO] Número creado exitosamente - ID: 696c248a4342f2641ed44d4b - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:43.303Z] [USUARIO] Número creado exitosamente - ID: 696c248b4342f2641ed44d4d - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:44.532Z] [USUARIO] Número creado exitosamente - ID: 696c248c4342f2641ed44d4f - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:45.553Z] [USUARIO] Número creado exitosamente - ID: 696c248d4342f2641ed44d51 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:46.478Z] [USUARIO] Número creado exitosamente - ID: 696c248e4342f2641ed44d53 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:47.297Z] [USUARIO] Número creado exitosamente - ID: 696c248f4342f2641ed44d55 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:48.423Z] [USUARIO] Número creado exitosamente - ID: 696c24904342f2641ed44d57 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:08:49.332Z] [USUARIO] Número creado exitosamente - ID: 696c24914342f2641ed44d59 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:09:20.801Z] [USUARIO] Número creado exitosamente - ID: 696c24b04342f2641ed44d5b - Data: {"telefono":"04262158763"}
+[2026-01-18T00:11:31.626Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T00:11:47.426Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T00:11:52.540Z] [USUARIO] Número creado exitosamente - ID: 696c254870b9f3085688c6ac - Data: {"telefono":"04262158763"}
+[2026-01-18T00:13:26.026Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T00:14:51.317Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T00:14:57.347Z] [USUARIO] Número creado exitosamente - ID: 696c260170b9f3085688c6be - Data: {"telefono":"04262158763"}
+[2026-01-18T00:15:28.076Z] [USUARIO] Número creado exitosamente - ID: 696c262070b9f3085688c6c0 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:16:12.672Z] [USUARIO] Número creado exitosamente - ID: 696c264c5d22a25efc5636f9 - Data: {"telefono":"04262158763"}
+[2026-01-18T00:16:39.944Z] [USUARIO] Número creado exitosamente - ID: 696c26675d22a25efc5636fb - Data: {"telefono":"04262158763"}
+[2026-01-18T00:17:14.662Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c268a5d22a25efc5636fd - Data: {"cedula":"8483922"}
+[2026-01-18T00:17:39.918Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com

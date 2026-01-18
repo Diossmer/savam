@@ -640,3 +640,186 @@
 [2026-01-17T21:53:13.903Z] [SISTEMA] [SuscriptorController] [storeSuscriptor] - Iniciando creación de suscriptor
 [2026-01-17T21:53:33.364Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
 [2026-01-17T21:53:33.374Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T22:56:35.918Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T22:56:36.443Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T22:56:36.469Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T22:56:59.433Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T22:56:59.442Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:04:36.072Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:04:36.491Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:04:36.500Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:04:39.552Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:04:39.554Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:07:03.011Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:07:03.369Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:07:03.374Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:07:05.053Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:07:05.055Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:07:58.192Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:07:58.195Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:27:41.624Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:27:41.627Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:27:42.072Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:27:42.075Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:27:42.280Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:27:42.283Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:27:44.987Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:27:44.988Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:35:43.324Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:35:43.846Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:35:43.850Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:35:50.211Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:35:50.213Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:35:52.752Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:35:52.756Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:35:54.855Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:35:54.857Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:36:48.044Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:36:48.370Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:36:48.373Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:36:50.905Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:36:50.908Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:37:35.470Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:37:38.188Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:37:38.388Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:37:38.391Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:37:38.586Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:37:38.588Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:37:48.774Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:37:48.776Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:41:43.897Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:41:44.285Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:41:44.289Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:41:47.254Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:41:47.256Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:43:57.363Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:43:57.748Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:43:57.751Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:44:46.606Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:44:46.607Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:49:26.230Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:49:26.332Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: mod@gmail.com
+[2026-01-17T23:49:30.316Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-17T23:49:31.142Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:49:31.146Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:49:33.895Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:49:33.897Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:50:20.818Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-17T23:50:20.821Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-17T23:50:23.362Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-17T23:50:23.377Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-17T23:50:29.302Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-17T23:50:29.303Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-17T23:58:12.854Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-17T23:58:38.324Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-17T23:58:42.370Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-17T23:58:44.728Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-17T23:58:46.046Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-17T23:59:54.905Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-17T23:59:58.583Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:00:14.642Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:00:22.263Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:00:31.346Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:01.550Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:35.131Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:53.016Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:55.169Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:56.705Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:58.171Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:01:59.455Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:02:00.790Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:02:01.913Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:02:34.146Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:05.932Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:12.416Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:22.137Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:30.853Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:32.536Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:34.492Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:36.231Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:37.572Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:38.367Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:39.263Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:03:40.319Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:04:13.528Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:04:47.102Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:05:18.216Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:05:51.659Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:06:26.388Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:06:57.949Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:00.664Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:01.942Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:05.621Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:06.749Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:08.799Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:10.545Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:11.865Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:12.991Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:15.072Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:16.051Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:16.853Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:17.596Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:18.517Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:19.442Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:20.978Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:07:53.736Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:11.125Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:13.488Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:14.738Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:15.753Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:32.684Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:34.292Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:35.807Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:36.748Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:37.667Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:38.493Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:39.922Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:40.532Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:41.352Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:42.375Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:43.296Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:44.529Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:45.549Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:46.471Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:47.293Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:48.420Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:08:49.329Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:09:20.796Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:11:31.469Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-18T00:11:31.923Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-18T00:11:31.936Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-18T00:11:47.283Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-18T00:11:52.512Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:13:00.169Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-18T00:13:25.882Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-18T00:13:26.271Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-18T00:13:26.280Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-18T00:13:32.428Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 6949b7d87a03ed84bbdce06f
+[2026-01-18T00:13:32.443Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-01-18T00:13:38.969Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:13:38.981Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:13:53.718Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:13:53.721Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:13:54.611Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:13:54.615Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:13:55.249Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:13:55.252Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:13:58.424Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-18T00:13:58.432Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-18T00:14:03.346Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:14:03.350Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:14:33.058Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:14:33.061Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-01-18T00:14:41.034Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-18T00:14:51.176Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: agente@movilnet.com.ve
+[2026-01-18T00:14:57.339Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:15:28.067Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:16:12.644Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:16:39.928Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-18T00:17:14.646Z] [SISTEMA] [SuscriptorController] [storeSuscriptor] - Iniciando creación de suscriptor
+[2026-01-18T00:17:30.107Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-18T00:17:39.736Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: mod@gmail.com
+[2026-01-18T00:17:40.135Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-18T00:17:40.147Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-18T00:17:45.768Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-01-18T00:17:45.772Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
