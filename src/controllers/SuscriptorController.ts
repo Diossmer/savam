@@ -13,7 +13,6 @@ export class SuscriptorController {
   storeSuscriptor = async (req: Request, res: Response): Promise<void> => {
     logger.sistema("[SuscriptorController] [storeSuscriptor] - Iniciando creación de suscriptor");
     try {
-      console.log(req.body)
       const nuevoSuscriptor = await this.suscriptorService.createSuscriptor(req.body);
       logger.usuario(`Suscriptor creado exitosamente - ID: ${nuevoSuscriptor.id}`, { cedula: nuevoSuscriptor.cedula });
       res.status(201).json(nuevoSuscriptor);
