@@ -30,3 +30,4 @@
 [2026-01-14T19:38:56.078Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
 [2026-01-14T19:39:35.900Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
 [2026-01-14T19:39:54.846Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-15T19:32:34.889Z] [USUARIO] Inicio de sesión exitoso - Usuario: Administrador@example.com

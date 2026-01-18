@@ -235,3 +235,7 @@
 [2026-01-14T19:39:56.440Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
 [2026-01-14T19:39:56.460Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
 [2026-01-14T19:39:56.462Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-01-15T19:29:35.995Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: admin
+[2026-01-15T19:29:36.037Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: admin
+[2026-01-15T19:32:34.530Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: Administrador@example.com
+[2026-01-17T10:54:13.451Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
