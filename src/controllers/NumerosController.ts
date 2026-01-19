@@ -14,7 +14,7 @@ export class NumerosController {
     logger.sistema("[NumerosController] [storeNumeros] - Iniciando creación de número");
     try {
       const nuevoRol = await this.numerosService.createNumeros(req.body);
-      logger.usuario(`Número creado exitosamente - ID: ${nuevoRol.id}`, { telefono: nuevoRol.numeroTelefono });
+      logger.usuario(`Número creado exitosamente - ID: ${nuevoRol.id}`, { telefono: nuevoRol.numero });
       res.status(201).json(nuevoRol);
     } catch (error) {
       logger.error("Error al crear el número", error);
@@ -45,7 +45,7 @@ export class NumerosController {
         res.status(404).json({ message: "Rol no encontrado" });
         return;
       }
-      logger.sistema(`[NumerosController] [indexListNumerosById] - Número encontrado: ${rol.numeroTelefono}`);
+      logger.sistema(`[NumerosController] [indexListNumerosById] - Número encontrado: ${rol.numero}`);
       res.status(200).json(rol);
     } catch (error) {
       logger.error(`Error al obtener el número ID ${req.params.id}`, error);
@@ -66,7 +66,7 @@ export class NumerosController {
         res.status(404).json({ message: "Rol no encontrado" });
         return;
       }
-      logger.usuario(`Número actualizado exitosamente - ID: ${rolActualizado.id}`, { telefono: rolActualizado.numeroTelefono });
+      logger.usuario(`Número actualizado exitosamente - ID: ${rolActualizado.id}`, { telefono: rolActualizado.numero });
       res.status(200).json(rolActualizado);
     } catch (error) {
       logger.error(`Error al actualizar el número ID ${req.params.id}`, error);

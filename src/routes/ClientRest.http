@@ -74,10 +74,8 @@ Content-Type: application/json
 
 {
   "cedula": "V-54482125",
-  "estatus": "Disponible",
-  "numeroTelefono": "04141234567",
-  "fecha_creacion": "2025-12-04",
-  "fecha_actualizacion": "2025-12-04"
+  "numero": "04141234567",
+  "fechaDeConsulta": "2025-12-04"
 }
 
 
@@ -85,19 +83,17 @@ Content-Type: application/json
 GET http://localhost:3000/api/numeros HTTP/1.1
 
 ###PUT numeros
-PUT http://localhost:3000/api/numeros/6934dd3f71b2488d431cd2d9 HTTP/1.1
+PUT http://localhost:3000/api/numeros/696abbc523e7977d0fc7e878 HTTP/1.1
 Content-Type: application/json
 
 {
   "cedula": "V-99999999",
-  "estatus": "Ocupado",
-  "numeroTelefono": "04147777777",
-  "fecha_creacion": "2025-12-06",
-  "fecha_actualizacion": "2025-12-06"
+  "numero": "04147777777",
+  "fechaDeConsulta": "2025-12-06"
 }
 
 ###SHOW numeros
-GET http://localhost:3000/api/numeros/6934dd3f71b2488d431cd2d9 HTTP/1.1
+GET http://localhost:3000/api/numeros/696abbc523e7977d0fc7e878 HTTP/1.1
 
 
 ###POST suscriptor
@@ -105,13 +101,13 @@ POST http://localhost:3000/api/suscriptor HTTP/1.1
 Content-Type: application/json
 
 {
-  "numeroTelefono": "04265848844",
-  "estatus": "Activo",
-  "operador": "Agente222",
+  "cedula": "V-253451",
   "fecha": "2025-12-04T02:56:26.000Z",
+  "numeroTelefono": "04265848844",
+  "operador": "Agente222",
   "whatsapp": true,
   "telegram": false,
-  "cedula": "V-253451"
+  "estatus": "Activo",
 }
 
 ###GET suscriptor
@@ -161,12 +157,13 @@ GET http://localhost:3000/api/profile HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NDliODA2N2EwM2VkODRiYmRjZTA3MyIsImNvcnJlbyI6Im1vZGVyYWRvckBtb3ZpbG5ldC5jb20udmUiLCJyb2xlcyI6W3siX2lkIjoiNjk0OWI3NGQxNTc1MGI1NjBmOWRjMjlmIiwibm9tYnJlIjoiTW9kZXJhZG9yIiwiZGVzY3JpcGNpb24iOiJFbGltaW5hIGVsIEFnZW50ZSIsInBlcm1pc29zIjpbImVsaW1pbmFyIl19XSwiaWF0IjoxNzY4MTc3NDI0LCJleHAiOjE3NjgxODEwMjR9.iiGXGMt_XHsVoYd2u1J0ZXr8Mb89htBr53zdHTyG4dg
 
-### Consultar WhatsApp
-POST http://localhost:3000/api/consultar-whatsapp HTTP/1.1
+### Consultar WhatsApp y Telegram (MTProto)
+POST http://localhost:3000/api/consultar-numeros HTTP/1.1
 Content-Type: application/json
 
 {
   //"numero": "04166334749"
-  "numero": "04265717721"
-  //"numero": "04166334740"
+  //"numero": "04265717721"
+  "numero": "04121984892"
+  //"numero": "04121984890"
 }

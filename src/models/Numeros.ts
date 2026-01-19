@@ -3,9 +3,8 @@ import mongoose, { Schema, Document } from 'mongoose';
 export interface INumeros extends Document {
   cedula: string;
   estatus: string;
-  numeroTelefono: string;
-  fecha_creacion: Date;
-  fecha_actualizacion: Date;
+  numero: string;
+  fechaDeConsulta: Date;
 }
 
 const NumerosSchema: Schema = new Schema<INumeros>(
@@ -14,19 +13,11 @@ const NumerosSchema: Schema = new Schema<INumeros>(
       type: String,
       required: true,
     },
-    estatus: {
+    numero: {
       type: String,
       required: true,
     },
-    numeroTelefono: {
-      type: String,
-      required: true,
-    },
-    fecha_creacion: {
-      type: Date,
-      required: true,
-    },
-    fecha_actualizacion: {
+    fechaDeConsulta: {
       type: Date,
       required: true,
     },

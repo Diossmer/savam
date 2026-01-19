@@ -1,9 +1,16 @@
 import { Router, Request, Response } from 'express';
 import { chromium, Browser, Page } from 'playwright';
+import { Api } from "telegram";
+import { getTelegramClient } from "../utils/telegramClient.js";
 
 interface ValidacionWhatsApp {
   valido: boolean;
   titulo: string;
+}
+
+interface ValidacionTelegram {
+  valido: boolean;
+  mensaje: string;
 }
 
 async function validarTelefonoWhatsApp(phone: string): Promise<ValidacionWhatsApp> {
@@ -132,8 +139,56 @@ async function validarTelefonoWhatsApp(phone: string): Promise<ValidacionWhatsAp
   }
 }
 
+/**
+ * Valida si un número tiene Telegram usando MTProto (Investigación).
+ * Utiliza el método de importar contacto para verificar su existencia.
+ */
+async function validarTelefonoTelegram(phone: string): Promise<ValidacionTelegram> {
+  try {
+    const client = await getTelegramClient();
+    const numLimpio = phone.replace('+', '');
+
+    console.log(`[ConsultaRouter] Investigando Telegram: +${numLimpio}`);
+
+    // Método: Importar contacto
+    const result = await client.invoke(
+      new Api.contacts.ImportContacts({
+        contacts: [
+          new Api.InputPhoneContact({
+            clientId: BigInt(Math.floor(Math.random() * 1000000)) as any,
+            phone: `+${numLimpio}`,
+            firstName: "SavamCheck",
+            lastName: "",
+          }),
+        ],
+      })
+    );
+
+    const users = (result as any).users;
+    const existe = users && users.length > 0;
+
+    // Si el contacto fue importado, lo eliminamos para mantener limpia la agenda
+    if (existe) {
+      const user = users[0];
+      await client.invoke(
+        new Api.contacts.DeleteContacts({
+          id: [user.id],
+        })
+      );
+    }
+
+    return {
+      valido: existe,
+      mensaje: existe ? "Tiene Telegram activo" : "No registrado en Telegram"
+    };
+  } catch (error: any) {
+    console.error(`[ConsultaRouter] Error validando Telegram MTProto (+${phone}):`, error.message);
+    return { valido: false, mensaje: `Error MTProto: ${error.message}` };
+  }
+}
+
 export default (router: Router) => {
-  router.post('/consultar-whatsapp', async (req: Request, res: Response) => {
+  router.post('/consultar-numeros', async (req: Request, res: Response) => {
     const { numero } = req.body;
 
     if (!numero) {
@@ -149,31 +204,33 @@ export default (router: Router) => {
         numeroValidar = '58' + numero.substring(1);
       }
 
-      console.log(`[ConsultaRouter] Validando: ${numeroValidar}`);
+      console.log(`[ConsultaRouter] Validando simultáneamente: ${numeroValidar}`);
 
-      const resultado = await validarTelefonoWhatsApp(numeroValidar);
+      // Ejecutamos ambas validaciones en paralelo
+      const [resultadoWA, resultadoTG] = await Promise.all([
+        validarTelefonoWhatsApp(numeroValidar),
+        validarTelefonoTelegram(numeroValidar)
+      ]);
 
       const respuestaData = {
-        numero_ingresado: numero,
-        numero_formateado: numeroValidar,
-        tiene_whatsapp: resultado.valido,
-        titulo_pagina: resultado.titulo,
+        whatsapp: {
+          tiene_whatsapp: resultadoWA.valido,
+          titulo_pagina: resultadoWA.titulo,
+        },
+        telegram: {
+          tiene_telegram: resultadoTG.valido,
+          mensaje: resultadoTG.mensaje
+        },
         fecha_consulta: new Date().toISOString()
       };
 
-      if (resultado.valido) {
-        return res.status(200).json({
-          status: 'valido',
-          message: `El número ${numero} tiene WhatsApp activo.`,
-          data: respuestaData
-        });
-      } else {
-        return res.status(200).json({
-          status: 'invalido',
-          message: `El número ${numero} NO tiene una cuenta de WhatsApp.`,
-          data: respuestaData
-        });
-      }
+      const esValido = resultadoWA.valido || resultadoTG.valido;
+
+      return res.status(200).json({
+        status: esValido ? 'valido' : 'invalido',
+        message: `Resultado de validación para ${numero}.`,
+        data: respuestaData
+      });
 
     } catch (error: any) {
       console.error("[ConsultaRouter] Error interno:", error);
