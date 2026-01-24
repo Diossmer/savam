@@ -318,3 +318,13 @@
 [2026-01-18T00:17:14.662Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c268a5d22a25efc5636fd - Data: {"cedula":"8483922"}
 [2026-01-18T00:17:39.918Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
 >>>>>>> 7492e00b0178b45f62eb938035e3e7672ceb4927
+[2026-01-20T00:14:05.606Z] [USUARIO] Usuario creado exitosamente - ID: 696ec8cd36e53eca8b2592da - Data: {"roles":null,"correo":"carlos@example.com"}
+[2026-01-20T00:29:26.901Z] [USUARIO] Inicio de sesión exitoso - Usuario: carlos@example.com
+[2026-01-20T00:29:34.045Z] [USUARIO] Número creado exitosamente - ID: 696ecc6e67e8988e40dcb066 - Data: {"telefono":"04165430246"}
+[2026-01-20T00:29:36.092Z] [USUARIO] Número creado exitosamente - ID: 696ecc7067e8988e40dcb068 - Data: {"telefono":"04165430246"}
+[2026-01-20T00:30:06.185Z] [USUARIO] Número creado exitosamente - ID: 696ecc8e67e8988e40dcb06a - Data: {"telefono":"04265717721"}
+[2026-01-20T00:30:07.372Z] [USUARIO] Número creado exitosamente - ID: 696ecc8f67e8988e40dcb06c - Data: {"telefono":"04265717721"}
+[2026-01-20T00:30:08.886Z] [USUARIO] Número creado exitosamente - ID: 696ecc9067e8988e40dcb06e - Data: {"telefono":"04265717721"}
+[2026-01-20T00:30:10.216Z] [USUARIO] Número creado exitosamente - ID: 696ecc9267e8988e40dcb070 - Data: {"telefono":"04265717721"}
+[2026-01-20T00:30:11.719Z] [USUARIO] Número creado exitosamente - ID: 696ecc9367e8988e40dcb072 - Data: {"telefono":"04265717721"}
+[2026-01-20T00:52:48.136Z] [USUARIO] Número creado exitosamente - ID: 696ed1e067e8988e40dcb074 - Data: {"telefono":"04265717721"}

@@ -830,3 +830,35 @@
 [2026-01-18T00:17:45.768Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
 [2026-01-18T00:17:45.772Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
 >>>>>>> 7492e00b0178b45f62eb938035e3e7672ceb4927
+[2026-01-20T00:12:40.473Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:13:18.808Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:13:42.495Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:14:05.287Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:28:35.168Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: @
+[2026-01-20T00:28:35.211Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: @
+[2026-01-20T00:28:36.580Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: @
+[2026-01-20T00:28:36.583Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: @
+[2026-01-20T00:28:37.199Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: @
+[2026-01-20T00:28:37.204Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: @
+[2026-01-20T00:29:17.099Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: carlos@example.com
+[2026-01-20T00:29:17.286Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: carlos@example.com
+[2026-01-20T00:29:26.722Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: carlos@example.com
+[2026-01-20T00:29:34.003Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:29:36.083Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:30:06.175Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:30:07.357Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:30:08.879Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:30:10.213Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:30:11.716Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:52:48.079Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-01-20T00:55:18.989Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:56:46.780Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T00:57:32.140Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:06:51.678Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:07:01.929Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:07:11.924Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:08:17.352Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:08:23.479Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:08:24.834Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-20T01:12:11.860Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-01-20T01:12:12.049Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 0
