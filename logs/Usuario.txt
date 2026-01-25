@@ -328,3 +328,10 @@
 [2026-01-20T00:30:10.216Z] [USUARIO] Número creado exitosamente - ID: 696ecc9267e8988e40dcb070 - Data: {"telefono":"04265717721"}
 [2026-01-20T00:30:11.719Z] [USUARIO] Número creado exitosamente - ID: 696ecc9367e8988e40dcb072 - Data: {"telefono":"04265717721"}
 [2026-01-20T00:52:48.136Z] [USUARIO] Número creado exitosamente - ID: 696ed1e067e8988e40dcb074 - Data: {"telefono":"04265717721"}
+[2026-01-24T01:52:45.433Z] [USUARIO] Usuario creado exitosamente - ID: 697425ed1a73e37b8970db97 - Data: {"roles":{"id":"697423da8f1e05af2236db37","nombre":"Administrador","descripcion":"Administrador del sistema.","permisos":["crear","leer","bloquear","actualizar","consultar"]},"correo":"luis2@ejemplo.com"}
+[2026-01-24T01:53:52.874Z] [USUARIO] Inicio de sesión exitoso - Usuario: luis2@ejemplo.com
+[2026-01-24T01:56:55.596Z] [USUARIO] Usuario creado exitosamente - ID: 697426e71a73e37b8970dba0 - Data: {"roles":{"id":"697424288f1e05af2236db39","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"omar@ejemplo.com"}
+[2026-01-24T01:57:34.618Z] [USUARIO] Inicio de sesión exitoso - Usuario: omar@ejemplo.com
+[2026-01-24T01:58:21.854Z] [USUARIO] Usuario creado exitosamente - ID: 6974273d1a73e37b8970dba5 - Data: {"roles":{"id":"697424538f1e05af2236db3b","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]},"correo":"rosa@ejemplo.com"}
+[2026-01-24T01:58:53.889Z] [USUARIO] Inicio de sesión exitoso - Usuario: rosa@ejemplo.com
+[2026-01-24T16:55:29.331Z] [USUARIO] Usuario creado exitosamente - ID: 6974f981f8d98e5d0c223fa3 - Data: {"roles":{"id":"697424288f1e05af2236db39","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"nohemi@ejemplo.com"}

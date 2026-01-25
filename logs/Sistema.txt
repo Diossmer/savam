@@ -862,3 +862,38 @@
 [2026-01-20T01:08:24.834Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
 [2026-01-20T01:12:11.860Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
 [2026-01-20T01:12:12.049Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 0
+[2026-01-24T01:20:05.458Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: ejemplo@correo.com
+[2026-01-24T01:20:05.478Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: ejemplo@correo.com
+[2026-01-24T01:21:01.080Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:21:59.112Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:22:26.762Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:22:58.507Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:24:08.355Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:24:11.541Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:25:28.947Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:26:08.885Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:26:11.092Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:26:13.689Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:26:53.577Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:49:45.355Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:50:17.666Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:50:46.495Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:52:12.970Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:52:29.571Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:52:45.241Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:53:52.662Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: luis2@ejemplo.com
+[2026-01-24T01:53:53.173Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-24T01:53:53.186Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 2
+[2026-01-24T01:54:16.078Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 697424db8f1e05af2236db42
+[2026-01-24T01:54:16.090Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Luis Polo
+[2026-01-24T01:54:26.764Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-24T01:56:55.409Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:57:34.467Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: omar@ejemplo.com
+[2026-01-24T01:58:21.668Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T01:58:26.589Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-24T01:58:53.728Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: rosa@ejemplo.com
+[2026-01-24T01:58:54.071Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-01-24T01:58:54.113Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-01-24T01:59:12.872Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-01-24T16:35:57.371Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-01-24T16:55:29.148Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
