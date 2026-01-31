@@ -72,7 +72,7 @@ export class UsuariosRepository implements IUsuarioRepository {
   }
 
   async find(): Promise<Usuarios[]> {
-    const usuarios = await UsuarioModel.find().populate('roles').lean();
+    const usuarios = await UsuarioModel.find().sort({ createdAt: -1 }).populate('roles').lean();
 
     // Mapear de MongoDB a la interfaz de la API
     return usuarios.map((usuario: any) => {

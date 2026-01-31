@@ -314,3 +314,116 @@
 [2026-01-18T00:16:39.944Z] [USUARIO] Número creado exitosamente - ID: 696c26675d22a25efc5636fb - Data: {"telefono":"04262158763"}
 [2026-01-18T00:17:14.662Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c268a5d22a25efc5636fd - Data: {"cedula":"8483922"}
 [2026-01-18T00:17:39.918Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T02:36:52.298Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T02:36:59.528Z] [USUARIO] Número creado exitosamente - ID: 696c474b7c1ba87839ac6beb - Data: {"telefono":"04261224818"}
+[2026-01-18T02:37:32.339Z] [USUARIO] Número creado exitosamente - ID: 696c476c7c1ba87839ac6bed - Data: {"telefono":"04261224818"}
+[2026-01-18T02:38:07.876Z] [USUARIO] Número creado exitosamente - ID: 696c478f7c1ba87839ac6bef - Data: {"telefono":"04261224818"}
+[2026-01-18T02:49:03.055Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T02:49:14.478Z] [USUARIO] Número creado exitosamente - ID: 696c4a2a7c1ba87839ac6bf3 - Data: {"telefono":"04268458894"}
+[2026-01-18T02:49:40.500Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c4a447c1ba87839ac6bf5 - Data: {"cedula":"21818434"}
+[2026-01-18T02:50:07.141Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T02:53:33.496Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T02:53:40.823Z] [USUARIO] Número creado exitosamente - ID: 696c4b347c1ba87839ac6c01 - Data: {"telefono":"04161239512"}
+[2026-01-18T02:54:02.175Z] [USUARIO] Suscriptor creado exitosamente - ID: 696c4b4a7c1ba87839ac6c03 - Data: {"cedula":"21310566"}
+[2026-01-18T02:54:22.848Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T16:53:45.328Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:19:50.609Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:20:13.967Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:21:42.848Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:25:54.015Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:29:10.266Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:42:11.045Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:43:31.465Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:43:41.671Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:51:19.121Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T17:51:43.632Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:17:43.241Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:18:01.139Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:21:11.522Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:21:14.914Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:21:18.104Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:21:23.879Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:36:25.249Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:36:48.092Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:36:51.136Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:43:13.547Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T18:43:19.450Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T19:08:47.897Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T19:10:18.598Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-18T19:13:06.122Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-18T19:13:18.532Z] [USUARIO] Número creado exitosamente - ID: 696d30ce7cd9cb4a7385e5c8 - Data: {"telefono":"04165434749"}
+[2026-01-18T19:14:06.050Z] [USUARIO] Suscriptor creado exitosamente - ID: 696d30fe7cd9cb4a7385e5ca - Data: {"cedula":"51548756"}
+[2026-01-18T19:14:19.682Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T19:16:02.999Z] [USUARIO] Contraseña actualizada para usuario: mod@gmail.com
+[2026-01-18T19:16:20.282Z] [USUARIO] Inicio de sesión exitoso - Usuario: mod@gmail.com
+[2026-01-18T19:16:31.588Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-18T19:16:39.175Z] [USUARIO] Usuario actualizado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]}}
+[2026-01-18T19:16:46.024Z] [USUARIO] Usuario eliminado exitosamente - ID: 69653454725e1bd2b5f615b6 - Data: {"nombre":"diossmer","correo":"mod@gmail.com"}
+[2026-01-23T12:00:16.355Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-23T12:06:32.284Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-23T12:07:07.808Z] [USUARIO] Número creado exitosamente - ID: 6973646b2c694aa57706235a - Data: {"telefono":"04163031413"}
+[2026-01-23T12:07:54.853Z] [USUARIO] Suscriptor creado exitosamente - ID: 6973649a2c694aa57706235c - Data: {"cedula":"21310567"}
+[2026-01-23T12:09:30.592Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T12:34:43.325Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-23T12:34:58.547Z] [USUARIO] Número creado exitosamente - ID: 69736af22c694aa577062379 - Data: {"telefono":"04166186013"}
+[2026-01-23T12:35:36.169Z] [USUARIO] Suscriptor creado exitosamente - ID: 69736b182c694aa57706237b - Data: {"cedula":"8526565"}
+[2026-01-23T12:36:03.717Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T20:20:50.232Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-23T20:21:31.634Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-23T20:22:17.549Z] [USUARIO] Número creado exitosamente - ID: 6973d879d138658f1ffc39f4 - Data: {"telefono":"04161553565"}
+[2026-01-23T20:23:22.365Z] [USUARIO] Suscriptor creado exitosamente - ID: 6973d8bad138658f1ffc39f6 - Data: {"cedula":"8658888"}
+[2026-01-23T20:23:45.489Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:28:28.297Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:33:47.417Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:38:38.860Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:48:13.730Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:48:13.805Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:48:45.265Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-23T22:49:00.033Z] [USUARIO] Número creado exitosamente - ID: 6973fadc2725f3b1f1dbded3 - Data: {"telefono":"04265188365"}
+[2026-01-23T22:49:45.166Z] [USUARIO] Suscriptor creado exitosamente - ID: 6973fb092725f3b1f1dbded5 - Data: {"cedula":"51535265"}
+[2026-01-23T22:50:05.434Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:50:50.053Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-23T22:51:38.105Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-23T22:51:38.179Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-23T23:17:47.228Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-23T23:20:28.305Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-24T00:06:08.903Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-24T00:11:21.573Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-24T00:14:25.846Z] [USUARIO] Usuario creado exitosamente - ID: 69740ee12725f3b1f1dbdf07 - Data: {"roles":{"id":"6949b74d15750b560f9dc29f","nombre":"Moderador","descripcion":"Elimina el Agente","permisos":["eliminar"]},"correo":"mod@gmail.com"}
+[2026-01-24T00:19:34.468Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-24T00:20:26.269Z] [USUARIO] Usuario creado exitosamente - ID: 6974104a2725f3b1f1dbdf13 - Data: {"roles":{"id":"6949b74d15750b560f9dc29d","nombre":"Administrador","descripcion":"Administrador del sistema.","permisos":["crear","leer","bloquear","actualizar","consultar"]},"correo":"fasdavvw@fasd.com.ve"}
+[2026-01-24T00:21:40.782Z] [USUARIO] Usuario actualizado exitosamente - ID: 6974104a2725f3b1f1dbdf13 - Data: {"roles":{"id":"6949b74d15750b560f9dc29e","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-01-24T00:23:24.256Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-24T00:55:11.596Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-24T00:55:19.628Z] [USUARIO] Número creado exitosamente - ID: 697418772725f3b1f1dbdf33 - Data: {"telefono":"04168489494"}
+[2026-01-24T00:58:41.087Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-24T00:58:54.882Z] [USUARIO] Número creado exitosamente - ID: 6974194e2725f3b1f1dbdf37 - Data: {"telefono":"04165875959"}
+[2026-01-24T01:00:14.401Z] [USUARIO] Número creado exitosamente - ID: 6974199e71d452bdf7418417 - Data: {"telefono":"04165875959"}
+[2026-01-24T01:01:02.086Z] [USUARIO] Suscriptor creado exitosamente - ID: 697419ce71d452bdf7418419 - Data: {"cedula":"58474747"}
+[2026-01-24T01:01:43.454Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-24T01:06:29.902Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-24T01:06:41.381Z] [USUARIO] Usuario eliminado exitosamente - ID: 6974104a2725f3b1f1dbdf13 - Data: {"nombre":"asdad","correo":"fasdavvw@fasd.com.ve"}
+[2026-01-24T01:06:48.435Z] [USUARIO] Usuario eliminado exitosamente - ID: 69740ee12725f3b1f1dbdf07 - Data: {"nombre":"Diossmer","correo":"mod@gmail.com"}
+[2026-01-24T01:07:08.648Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-25T02:21:49.957Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-25T02:31:26.967Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-25T03:43:22.897Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-25T03:43:23.318Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-29T17:16:42.527Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-29T17:19:31.779Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-29T17:21:09.120Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-01-29T17:22:22.887Z] [USUARIO] Usuario creado exitosamente - ID: 697b974eff33f3f56d4ce5cb - Data: {"roles":{"id":"6949b74d15750b560f9dc29d","nombre":"Administrador","descripcion":"Administrador del sistema.","permisos":["crear","leer","bloquear","actualizar","consultar"]},"correo":"marcosps1985@gmail.com"}
+[2026-01-29T17:23:08.957Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-29T17:25:35.694Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-29T17:26:05.804Z] [USUARIO] Número creado exitosamente - ID: 697b982dff33f3f56d4ce5de - Data: {"telefono":"04166050938"}
+[2026-01-29T17:29:05.183Z] [USUARIO] Suscriptor creado exitosamente - ID: 697b98e1ff33f3f56d4ce5e0 - Data: {"cedula":"18189160"}
+[2026-01-29T17:29:42.971Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-01-29T17:34:28.514Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-29T17:35:19.504Z] [USUARIO] Número creado exitosamente - ID: 697b9a57ff33f3f56d4ce5ed - Data: {"telefono":"04166334749"}
+[2026-01-29T17:45:38.948Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-29T17:45:53.872Z] [USUARIO] Número creado exitosamente - ID: 697b9cd1ff33f3f56d4ce5f1 - Data: {"telefono":"04265875555"}
+[2026-01-29T17:48:50.541Z] [USUARIO] Número creado exitosamente - ID: 697b9d826cba758614097e72 - Data: {"telefono":"04265875555"}
+[2026-01-29T18:07:32.393Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-01-29T18:07:58.332Z] [USUARIO] Número creado exitosamente - ID: 697ba1fe32977a9f6ebfb97e - Data: {"telefono":"04265875555"}
+[2026-01-29T18:36:34.677Z] [USUARIO] Número creado exitosamente - ID: 697ba8b23fdaf53514f02550 - Data: {"telefono":"04265875555"}
+[2026-01-29T18:43:07.148Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve

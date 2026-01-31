@@ -30,7 +30,7 @@ export class SuscriptorRepository implements ISuscriptorRepository {
   }
 
   async find(): Promise<Suscriptor[]> {
-    const suscriptors = await SuscriptorModel.find().lean();
+    const suscriptors = await SuscriptorModel.find().sort({ createdAt: -1 }).lean();
 
     // Mapear de MongoDB a la interfaz de la API
     return suscriptors.map((suscriptor: any) => ({

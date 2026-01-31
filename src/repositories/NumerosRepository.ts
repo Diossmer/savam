@@ -22,7 +22,7 @@ export class NumerosRepository implements INumerosRepository {
   }
 
   async find(): Promise<Numeros[]> {
-    const usuarios = await NumerosModel.find().lean();
+    const usuarios = await NumerosModel.find().sort({ createdAt: -1 }).lean();
 
     // Mapear de MongoDB a la interfaz de la API
     return usuarios.map((usuario: any) => ({
