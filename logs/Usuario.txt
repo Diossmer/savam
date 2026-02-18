@@ -434,3 +434,8 @@
 [2026-02-18T01:00:02.697Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
 [2026-02-18T01:07:45.620Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
 [2026-02-18T01:16:58.081Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-02-18T01:18:32.847Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-18T01:23:59.155Z] [USUARIO] Inicio de sesión exitoso - Usuario: agente@movilnet.com.ve
+[2026-02-18T01:24:05.703Z] [USUARIO] Número creado exitosamente - ID: 699514b5fcee9b31dbec2922 - Data: {"telefono":"04264848488"}
+[2026-02-18T01:27:53.539Z] [USUARIO] Número creado exitosamente - ID: 69951599fcee9b31dbec2924 - Data: {"telefono":"04264848488"}
+[2026-02-18T01:32:26.577Z] [USUARIO] Número creado exitosamente - ID: 699516aafcee9b31dbec2926 - Data: {"telefono":"04264848488"}
