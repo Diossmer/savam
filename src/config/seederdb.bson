@@ -37,11 +37,8 @@
     "nombre": "Admin",
     "apellido": "System",
     "cedula": "00000000",
-    "password": "$2b$10$saEGi/EnOPvuePFtyvCFbOPG513HzqgbUyBaFSdRWsIKmw8dCstd2", //12345678
-    "roles_id": {
-      "$ref": "roles",
-      "$id": "6949b74d15750b560f9dc29d"
-    }
+    "password": "$2b$10$saEGi/EnOPvuePFtyvCFbOPG513HzqgbUyBaFSdRWsIKmw8dCstd2",
+    "roles": ObjectId("69950ce969a0497f268563bd") 
   },
   {
     "oficina": "Movilnet",
@@ -49,12 +46,9 @@
     "estado": "activo",
     "nombre": "Agent",
     "apellido": "System",
-    "cedula": "00000000",
+    "cedula": "00000001",
     "password": "$2b$10$ik3LrWqUnh0l7oC6B0bii.uWvJyveJ8LB6fuDZK7AQZHh9h7gfEk2",
-    "roles_id": {
-      "$ref": "roles",
-      "$id": "6949b74d15750b560f9dc29e"
-    }
+    "roles": ObjectId("69950ce969a0497f268563be")
   },
   {
     "oficina": "Movilnet",
@@ -62,12 +56,9 @@
     "estado": "Bloqueado",
     "nombre": "Moderador",
     "apellido": "System",
-    "cedula": "00000000",
+    "cedula": "00000002",
     "password": "$2b$10$D0CT8GA7wUhXp3cLF/aoUOeBIPpe.ltXYsmerTrBF6.Wm0PYtH5nO",
-    "roles_id": {
-      "$ref": "roles",
-      "$id": "6949b74d15750b560f9dc29f"
-    }
+    "roles": ObjectId("69950ce969a0497f268563bf")
   }
 ]
 /*Números*/

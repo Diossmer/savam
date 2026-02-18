@@ -427,3 +427,10 @@
 [2026-01-29T18:07:58.332Z] [USUARIO] Número creado exitosamente - ID: 697ba1fe32977a9f6ebfb97e - Data: {"telefono":"04265875555"}
 [2026-01-29T18:36:34.677Z] [USUARIO] Número creado exitosamente - ID: 697ba8b23fdaf53514f02550 - Data: {"telefono":"04265875555"}
 [2026-01-29T18:43:07.148Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-18T00:05:43.796Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-02-18T00:48:53.819Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-18T00:59:11.699Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-18T00:59:27.078Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-02-18T01:00:02.697Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-02-18T01:07:45.620Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
+[2026-02-18T01:16:58.081Z] [USUARIO] Inicio de sesión exitoso - Usuario: admin@movilnet.com.ve
