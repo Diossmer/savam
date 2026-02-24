@@ -1,4 +1,7 @@
 {
+"imports": {
+    "#/*": "./src/*"
+  },
   "name": "savam",
   "version": "1.0.0",
   "main": "index.js",
@@ -39,8 +42,5 @@
     "@types/cors": "^2.8.19",
     "@types/jsonwebtoken": "^9.0.10",
     "tsc-alias": "^1.8.16"
-  }
-  "imports": {
-    "#/*": "./src/*"
   }
 }
