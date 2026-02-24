@@ -1458,3 +1458,174 @@
 [2026-02-18T01:24:05.689Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
 [2026-02-18T01:27:53.537Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
 [2026-02-18T01:32:26.573Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-02-18T01:42:31.980Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-02-18T01:42:57.991Z] [SISTEMA] [SuscriptorController] [storeSuscriptor] - Iniciando creación de suscriptor
+[2026-02-18T01:42:58.055Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-18T01:42:58.071Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 1
+[2026-02-18T01:43:26.320Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-18T01:43:26.708Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-18T01:43:26.712Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-18T01:43:30.129Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:43:30.133Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:44:37.549Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:44:37.553Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:46:20.110Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-02-18T01:46:20.218Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-18T01:46:20.224Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-18T01:46:23.905Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699512e669a0497f268563d6
+[2026-02-18T01:46:23.916Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-02-18T01:46:27.862Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-18T01:46:27.866Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Flor Perez
+[2026-02-18T01:47:08.464Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-18T01:47:08.468Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Flor Perez
+[2026-02-18T01:47:08.482Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:08.485Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:08.505Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:08.507Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:12.167Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-18T01:47:12.171Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Flor Perez
+[2026-02-18T01:47:12.181Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:12.183Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:12.197Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:12.200Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:12.272Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:12.278Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:12.282Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-18T01:47:12.284Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-18T01:47:38.006Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-18T01:47:38.208Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-18T01:47:38.220Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-18T01:50:03.868Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: flor@gmail.com
+[2026-02-18T01:50:12.108Z] [SISTEMA] [NumerosController] [storeNumeros] - Iniciando creación de número
+[2026-02-18T01:51:41.770Z] [SISTEMA] [SuscriptorController] [storeSuscriptor] - Iniciando creación de suscriptor
+[2026-02-18T01:51:41.837Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-18T01:51:41.840Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
+[2026-02-18T01:54:02.290Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@gmail.com
+[2026-02-18T01:54:02.292Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: moderador@gmail.com
+[2026-02-18T01:54:06.631Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@gmail.com
+[2026-02-18T01:54:06.632Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: moderador@gmail.com
+[2026-02-18T01:54:19.546Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-18T01:54:19.755Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-18T01:54:19.767Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-18T01:54:23.281Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-18T01:54:23.282Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
+[2026-02-18T01:55:15.491Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-02-18T01:55:15.493Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 5
+[2026-02-22T01:22:48.580Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T01:22:49.157Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T01:22:49.168Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:13:44.060Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-02-22T03:22:25.640Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:22:25.968Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:22:25.990Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:22:58.345Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-22T03:22:58.359Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Cristina Perez
+[2026-02-22T03:22:58.666Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:22:58.671Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:22:58.699Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:22:58.702Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:23:06.716Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699512e669a0497f268563d6
+[2026-02-22T03:23:06.719Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-02-22T03:23:06.832Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:23:06.838Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:23:06.847Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:23:06.849Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:23:10.102Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699512e669a0497f268563d6
+[2026-02-22T03:23:10.111Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Agent System
+[2026-02-22T03:23:12.127Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-22T03:23:12.133Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Cristina Perez
+[2026-02-22T03:23:18.473Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-22T03:23:18.477Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
+[2026-02-22T03:23:22.470Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-02-22T03:23:22.480Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 5
+[2026-02-22T03:23:48.705Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-22T03:23:48.707Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
+[2026-02-22T03:25:11.997Z] [SISTEMA] [AuthenticationController] [updatePassword] - Intento de actualización de contraseña
+[2026-02-22T03:25:15.476Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:25:15.483Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:25:20.932Z] [SISTEMA] [UsuarioController] [deleteUsuarioById] - Iniciando eliminación de usuario ID: 699512e669a0497f268563d6
+[2026-02-22T03:25:20.952Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:25:20.956Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:25:24.551Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:25:24.555Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:25:24.620Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:25:24.621Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:25:24.665Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:25:24.672Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:25:37.048Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-22T03:25:37.174Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:25:37.178Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:25:41.604Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:25:41.608Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:25:46.946Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-02-22T03:26:05.145Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:26:05.408Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:26:05.412Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:26:08.391Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:26:08.394Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:26:45.996Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-02-22T03:26:46.103Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:26:46.109Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:48:12.410Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:48:12.938Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:48:12.951Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:48:26.868Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699519ec1bd00e3c560f1711
+[2026-02-22T03:48:26.883Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Cristina Perez
+[2026-02-22T03:48:27.164Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:48:27.167Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:48:27.169Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:48:27.172Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:48:43.215Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699a777630bb6c43d347a0ba
+[2026-02-22T03:48:43.225Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: CArlos cedeo
+[2026-02-22T03:48:50.998Z] [SISTEMA] [UsuarioController] [deleteUsuarioById] - Iniciando eliminación de usuario ID: 699a777630bb6c43d347a0ba
+[2026-02-22T03:48:51.013Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:48:51.019Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:49:00.845Z] [SISTEMA] [NumerosController] [indexListNumeros] - Obteniendo lista de números
+[2026-02-22T03:49:00.848Z] [SISTEMA] [NumerosController] [indexListNumeros] - Números recuperados: 5
+[2026-02-22T03:49:29.781Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Obteniendo lista de suscriptores
+[2026-02-22T03:49:29.783Z] [SISTEMA] [SuscriptorController] [indexListSuscriptor] - Suscriptores recuperados: 2
+[2026-02-22T03:50:46.705Z] [SISTEMA] [AuthenticationController] [updatePassword] - Intento de actualización de contraseña
+[2026-02-22T03:50:50.793Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:50:50.806Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:50:52.386Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:50:52.389Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:50:52.408Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:50:52.412Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:50:52.439Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:50:52.443Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:51:02.302Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-02-22T03:51:15.648Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:51:15.940Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:51:15.946Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 3
+[2026-02-22T03:51:20.217Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:51:20.221Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:51:51.336Z] [SISTEMA] [UsuarioController] [storeUsuario] - Iniciando creación de usuario
+[2026-02-22T03:51:51.447Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:51:51.459Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:51:56.777Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-02-22T03:52:16.676Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:16.788Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:23.953Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:24.042Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:24.148Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:24.266Z] [SISTEMA] [AuthenticationController] [login] - Credenciales inválidas para usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:31.327Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:31.614Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:52:31.623Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:52:35.326Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699a7d57f7826de3cfe292b5
+[2026-02-22T03:52:35.337Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Carlos Pea
+[2026-02-22T03:52:43.159Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Buscando usuario ID: 699a7d57f7826de3cfe292b5
+[2026-02-22T03:52:43.163Z] [SISTEMA] [UsuarioController] [indexListUsuarioById] - Usuario encontrado: Carlos Pea
+[2026-02-22T03:52:43.193Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:52:43.202Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:52:43.223Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:52:43.226Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:52:43.254Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:52:43.257Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:52:43.276Z] [SISTEMA] [RolesController] [indexListRoles] - Obteniendo lista de roles
+[2026-02-22T03:52:43.280Z] [SISTEMA] [RolesController] [indexListRoles] - Roles recuperados: 3
+[2026-02-22T03:52:49.106Z] [SISTEMA] [UsuarioController] [updateUsuarioById] - Iniciando actualización de usuario ID: 699a7d57f7826de3cfe292b5
+[2026-02-22T03:52:49.191Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Obteniendo lista de usuarios
+[2026-02-22T03:52:49.199Z] [SISTEMA] [UsuarioController] [indexListUsuario] - Usuarios recuperados: 4
+[2026-02-22T03:52:53.208Z] [SISTEMA] [AuthenticationController] [logout] - Cierre de sesión solicitado
+[2026-02-22T03:53:02.894Z] [SISTEMA] [AuthenticationController] [login] - Intento de inicio de sesión - Usuario: pela@movilnet.com.ve

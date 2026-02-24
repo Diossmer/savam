@@ -439,3 +439,27 @@
 [2026-02-18T01:24:05.703Z] [USUARIO] Número creado exitosamente - ID: 699514b5fcee9b31dbec2922 - Data: {"telefono":"04264848488"}
 [2026-02-18T01:27:53.539Z] [USUARIO] Número creado exitosamente - ID: 69951599fcee9b31dbec2924 - Data: {"telefono":"04264848488"}
 [2026-02-18T01:32:26.577Z] [USUARIO] Número creado exitosamente - ID: 699516aafcee9b31dbec2926 - Data: {"telefono":"04264848488"}
+[2026-02-18T01:42:32.010Z] [USUARIO] Número creado exitosamente - ID: 699519071bd00e3c560f1706 - Data: {"telefono":"04264848488"}
+[2026-02-18T01:42:57.996Z] [USUARIO] Suscriptor creado exitosamente - ID: 699519211bd00e3c560f1708 - Data: {"cedula":"2587963"}
+[2026-02-18T01:43:26.437Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-18T01:46:20.198Z] [USUARIO] Usuario creado exitosamente - ID: 699519ec1bd00e3c560f1711 - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"flor@gmail.com"}
+[2026-02-18T01:47:38.116Z] [USUARIO] Usuario actualizado exitosamente - ID: 699519ec1bd00e3c560f1711 - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-02-18T01:50:03.959Z] [USUARIO] Inicio de sesión exitoso - Usuario: flor@gmail.com
+[2026-02-18T01:50:12.113Z] [USUARIO] Número creado exitosamente - ID: 69951ad41bd00e3c560f172b - Data: {"telefono":"04264894894"}
+[2026-02-18T01:51:41.773Z] [USUARIO] Suscriptor creado exitosamente - ID: 69951b2d1bd00e3c560f172d - Data: {"cedula":"26548932"}
+[2026-02-18T01:54:19.628Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T01:22:48.744Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:22:25.759Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:25:12.201Z] [USUARIO] Contraseña actualizada para usuario: moderador@movilnet.com.ve
+[2026-02-22T03:25:20.946Z] [USUARIO] Usuario eliminado exitosamente - ID: 699512e669a0497f268563d6 - Data: {"nombre":"Agent","correo":"agente@movilnet.com.ve"}
+[2026-02-22T03:25:37.162Z] [USUARIO] Usuario actualizado exitosamente - ID: 699519ec1bd00e3c560f1711 - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-02-22T03:26:05.226Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:26:46.081Z] [USUARIO] Usuario creado exitosamente - ID: 699a777630bb6c43d347a0ba - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"adeokln@jmasjdi.com.ve"}
+[2026-02-22T03:48:12.531Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:48:51.002Z] [USUARIO] Usuario eliminado exitosamente - ID: 699a777630bb6c43d347a0ba - Data: {"nombre":"CArlos","correo":"adeokln@jmasjdi.com.ve"}
+[2026-02-22T03:50:46.879Z] [USUARIO] Contraseña actualizada para usuario: moderador@movilnet.com.ve
+[2026-02-22T03:51:15.744Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:51:51.428Z] [USUARIO] Usuario creado exitosamente - ID: 699a7d57f7826de3cfe292b5 - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]},"correo":"pellla@movilnet.com.ve"}
+[2026-02-22T03:52:31.416Z] [USUARIO] Inicio de sesión exitoso - Usuario: moderador@movilnet.com.ve
+[2026-02-22T03:52:49.124Z] [USUARIO] Usuario actualizado exitosamente - ID: 699a7d57f7826de3cfe292b5 - Data: {"roles":{"id":"69950ce969a0497f268563be","nombre":"Agente","descripcion":"Consultar números, Asignar números y Reasignar números","permisos":["consultar","asignar","reasignar"]}}
+[2026-02-22T03:53:03.006Z] [USUARIO] Inicio de sesión exitoso - Usuario: pela@movilnet.com.ve
