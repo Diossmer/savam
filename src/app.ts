@@ -2,14 +2,14 @@ import express, { Application } from "express";
 import morgan from "morgan";
 import helmet from "helmet";
 import cors from "cors";
-import routes from "@/routes";
-import connectDB from "@/config";
-import { validateEnv } from "@/config/env";
-import corsOptions from "@/config/cors";
-import helmetOptions from "@/config/security";
-import { generalLimiter } from "@/config/rateLimit";
-import healthCheckRoutes from "@/server/healthCheck";
-import { errorHandler, notFoundHandler } from "@/middleware/errorHandler";
+import routes from "./routes";
+import connectDB from "./config";
+import { validateEnv } from "./config/env";
+import corsOptions from "./config/cors";
+import helmetOptions from "./config/security";
+import { generalLimiter } from "./config/rateLimit";
+import healthCheckRoutes from "./server/healthCheck";
+import { errorHandler, notFoundHandler } from "./middleware/errorHandler";
 
 /**
  * Validar variables de entorno
